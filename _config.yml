@@ -121,6 +121,7 @@ menu:
   about: /about/
   archives: /archives/
   tags: /tags/
+  guestbook: /guestbook/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
@@ -141,6 +142,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  guestbook: book
 
 
 
