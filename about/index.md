@@ -33,7 +33,7 @@ My research interest is mainly focused on Immersive Media Technologies, such as 
 
 Email : luhp9696@gmail.com
 
-
+[Guestbook](http://leohope.com/2016/12/01/Guestbook/)
 
 ps. Comments are supported by [Livere](https://livere.com/). 
 
@@ -64,7 +64,7 @@ pps. If not noted, **all** articles in this site(leohope.com) is original. Pleas
 
 Email : luhp9696@gmail.com
 
-
+[留言板](http://leohope.com/2016/12/01/Guestbook/)
 
 ps. 网站内的评论区由[来必力](https://livere.com/)平台提供。
 
