@@ -5,11 +5,11 @@
 
 # Site
 title: Hope
-subtitle:
-description:
-author: Hope
+subtitle: 这儿有个杂货铺
+description: 草堂春睡足，窗外日迟迟。
+author: Haopeng Lu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
@@ -318,8 +318,8 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: true
-  min2read: true
+  wordcount: false
+  min2read: false
   separated_meta: false
 
 # Wechat Subscriber
