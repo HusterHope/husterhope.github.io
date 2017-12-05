@@ -1,8 +1,6 @@
 ---
 title: Next Theme Tutorial
 description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
-categories:
- - tutorial
 tags:
 ---
 
@@ -15,7 +13,7 @@ tags:
 ## Screenshots
 
 * Desktop
-![Desktop Preview](http://iissnan.com/nexus/next/desktop-preview.png)
+  ![Desktop Preview](http://iissnan.com/nexus/next/desktop-preview.png)
 
 * Sidebar
 
