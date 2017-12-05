@@ -118,7 +118,7 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  #about: /about/
+  about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -316,8 +316,8 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: false
-  min2read: false
+  wordcount: true
+  min2read: true
   separated_meta: true
 
 # Wechat Subscriber
