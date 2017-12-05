@@ -20,14 +20,14 @@ permalink: pretty
 
 # Pagination
 paginate: 10
-#paginate_path: "/page:num/"
-#archive:
-  #paginate: 10
-  #paginate_path: "/page:num/"
+paginate_path: "/page:num/"
+archive:
+  paginate: 10
+  paginate_path: "/page:num/"
 #category:
   #paginate: 10
   #paginate_path: "/page:num/"
-#tag:
+tag:
   #paginate: 10
   #paginate_path: "/page:num/"
 
@@ -213,9 +213,9 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  Zhihu: https://www.zhihu.com/people/lu-hao-peng-26/activities
+  知乎: https://www.zhihu.com/people/lu-hao-peng-26/activities
   GitHub: https://github.com/HusterHope
-  Bilibili: https://space.bilibili.com/13758485#!/
+  B站: https://space.bilibili.com/13758485#!/
   #LinkLabel: Link
 
 
