@@ -4,30 +4,30 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Hope
+title: NexT
 subtitle:
 description:
-author: Hope
+author: John Doe
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: zh-Hans
+language: en
 date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:http://leohope.com
+url:
 baseurl:
 permalink: pretty
 
 # Pagination
 paginate: 10
-paginate_path: "/page:num/"
-archive:
-  paginate: 10
-  paginate_path: "/page:num/"
+#paginate_path: "/page:num/"
+#archive:
+  #paginate: 10
+  #paginate_path: "/page:num/"
 #category:
   #paginate: 10
   #paginate_path: "/page:num/"
-tag:
+#tag:
   #paginate: 10
   #paginate_path: "/page:num/"
 
@@ -86,7 +86,7 @@ keywords: "Jekyll, NexT"
 rss:
 
 # Specify the date when the site was setup
-since: 2016
+#since: 2015
 
 # icon between year and author @Footer
 authoricon: heart
@@ -118,7 +118,7 @@ index_with_subtitle: false
 menu:
   home: /
   #categories: /categories/
-  about: /about/
+  #about: /about/
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
@@ -212,10 +212,7 @@ font:
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
-social:
-  知乎: https://www.zhihu.com/people/lu-hao-peng-26/activities
-  GitHub: https://github.com/HusterHope
-  B站: https://space.bilibili.com/13758485#!/
+#social:
   #LinkLabel: Link
 
 
@@ -276,10 +273,10 @@ sidebar:
   offset_float: 0
 
   # Back to top in sidebar
-  b2t: true
+  b2t: false
 
   # Scroll percent label in b2t button
-  scrollpercent: true
+  scrollpercent: false
 
 
 # Blog rolls
@@ -298,7 +295,7 @@ sidebar:
 scroll_to_more: true
 
 # Automatically saving scroll position on each post/page in cookies.
-save_scroll: true
+save_scroll: false
 
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true
@@ -319,8 +316,8 @@ post_meta:
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: true
-  min2read: true
+  wordcount: false
+  min2read: false
   separated_meta: true
 
 # Wechat Subscriber
@@ -364,12 +361,12 @@ highlight_theme: normal
 
 # MathJax Support
 mathjax:
-  enable: true
-  per_page: true
+  enable: false
+  per_page: false
   cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
 
 # Han Support docs: https://hanzi.pro/
-han: true
+han: false
 
 # Swiftype Search API Key
 #swiftype_key:
@@ -403,7 +400,7 @@ changyan:
 
 # Support for youyan comments system.
 # You can get your uid from http://www.uyan.cc
-# youyan_uid: 
+#youyan_uid: your uid
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
@@ -521,7 +518,7 @@ busuanzi_count:
 
 
 # Enable baidu push so that the blog will push the url to baidu automatically which is very helpful for SEO
-baidu_push: true
+baidu_push: false
 
 # Google Calendar
 # Share your recent schedule to others via calendar page
@@ -553,7 +550,7 @@ algolia_search:
 
 # Local search
 local_search:
-  enable: true
+  enable: false
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
