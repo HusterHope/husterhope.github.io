@@ -33,11 +33,9 @@ My research interest is mainly focused on Immersive Media Technologies, such as 
 
 Email : luhp9696@gmail.com
 
-Zhihu : [Hope's Homepage](https://www.zhihu.com/people/lu-hao-peng-26/activities )
 
 
-
-ps. Comments are supported by [Uyan](http://www.uyan.cc/). 
+ps. Comments are supported by [Livere](https://livere.com/). 
 
 pps. If not noted, **all** articles in this site(leohope.com) is original. Please contact me before you use or reprint them and you're always welcome:)
 
@@ -66,10 +64,8 @@ pps. If not noted, **all** articles in this site(leohope.com) is original. Pleas
 
 Email : luhp9696@gmail.com
 
-知乎：[Hope的个人主页](https://www.zhihu.com/people/lu-hao-peng-26/activities )
 
 
-
-ps. 网站内的评论区由[友言](http://www.uyan.cc/)平台提供。
+ps. 网站内的评论区由[来必力](https://livere.com/)平台提供。
 
 pps. 如无特别说明，本站内所有文章均为原创，转载前请先和我取得联系（一般都会同意的）。
