@@ -5,9 +5,9 @@
 
 # Site
 title: Hope
-subtitle: 这儿有个杂货铺
+subtitle: Hope's Blog
 description: 草堂春睡足，窗外日迟迟。
-author: Haopeng Lu
+author: Lhp
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%Y-%m-%d'
@@ -75,7 +75,7 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: /assets/images/favicon.png
 
 # Set default keywords (Use a comma to separate)
 keywords: "Jekyll, NexT"
@@ -234,7 +234,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-#avatar:
+avatar: /assets/images/author.jpg
 
 
 # Table Of Contents in the Sidebar
