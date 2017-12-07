@@ -338,7 +338,10 @@ post_copyright:
   license: CC BY-NC-SA 3.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
-
+# Rewards
+reward_comment: 
+#wechatpay: /path/to/wechat-reward-image
+alipay: /assets/images/alipayCode.jpg
 
 # ---------------------------------------------------------------
 # Misc Theme Settings
