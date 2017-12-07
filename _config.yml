@@ -339,7 +339,7 @@ post_copyright:
   license_url: https://creativecommons.org/licenses/by-nc-sa/3.0/
 
 # Rewards
-reward_comment: 
+reward_comment: 支付宝打赏链接还是要有的，万一真的有人赏呢:D
 #wechatpay: /path/to/wechat-reward-image
 alipay: /assets/images/alipayCode.jpg
 
