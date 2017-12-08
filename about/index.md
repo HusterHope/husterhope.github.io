@@ -14,6 +14,8 @@ I'm a senior student at HUST, major in Digital Media Technology. Now I'm an inte
 
 This is the blog I make records about what I've learned and what I'm thinking💡.
 
+*Leo* means the fifth sign of the zodiac, which the sun enters about July 23.
+
 #### Research Interest
 
 My research interest is mainly focused on Immersive Media Technologies, such as virtual reality(VR) and augmented reality(AR).
@@ -48,6 +50,8 @@ pps. If not noted, **all** articles in this site(leohope.com) is original. Pleas
 我目前是华中科技大学本科四年级的学生，专业为数字媒体技术。现在在[数字视频编解码技术国家工程实验室]((http://idm.pku.edu.cn/))实习。
 
 这个博客主要记录我做的事情和一些想法💡。
+
+*Leo*代表狮子座。
 
 #### 研究方向
 
