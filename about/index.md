@@ -25,7 +25,7 @@ My research interest is mainly focused on Immersive Media Technologies, such as 
 * UI design. (Just surf on website)
 
 
-* Broad games. Like CATAN / BETRAYAL AT HOUSE ON THE HILL / KTK etc. You can find the games [here](https://husterhope.github.io/2017/07/05/boardgames.html).
+* Broad games. Like CATAN / BETRAYAL AT HOUSE ON THE HILL / KTK etc. You can find the games [here](https://husterhope.github.io/2017/07/05/boardgames).
 * Animation. Because my major is DMT, so I have lots of chance to know about the Animations. I have posted a few small videos on my Bilibili Homepage:  [HHHope's personal space](https://space.bilibili.com/13758485#!/ ) .
 * New things / New ideas / New friend...
 
@@ -60,7 +60,7 @@ pps. If not noted, **all** articles in this site(leohope.com) is original. Pleas
 #### 个人兴趣
 
 * UI设计（主要是逛网站）
-* 桌游。例如「卡坦岛」、「山屋惊魂」、「三国杀」等。[这篇文章](https://husterhope.github.io/2017/07/05/boardgames.html)里有一些桌游的介绍。
+* 桌游。例如「卡坦岛」、「山屋惊魂」、「三国杀」等。[这篇文章](https://husterhope.github.io/2017/07/05/boardgames)里有一些桌游的介绍。
 * 动画。由于专业是数媒，因此了解过不少和动画相关的知识。我在B站(Bilibili)有若干小视频短片投稿：[Up主-HHHope的个人空间](https://space.bilibili.com/13758485#!/)。
 * 新鲜事物／新想法／新朋友...
 
