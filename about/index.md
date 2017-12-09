@@ -47,7 +47,7 @@ pps. If not noted, **all** articles in this site(leohope.com) is original. Pleas
 
 #### 简介
 
-我目前是华中科技大学本科四年级的学生，专业为数字媒体技术。现在在[数字视频编解码技术国家工程实验室]((http://idm.pku.edu.cn/))实习。
+我目前是华中科技大学本科四年级的学生，专业为数字媒体技术。现在在[数字视频编解码技术国家工程实验室](http://idm.pku.edu.cn/)实习。
 
 这个博客主要记录我做的事情和一些想法💡。
 
