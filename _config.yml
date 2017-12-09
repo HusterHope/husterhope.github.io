@@ -283,7 +283,7 @@ sidebar:
 
 # Blog rolls
 links_title: Links
-#links_layout: block
+links_layout: block
 #links_layout: inline
 links:
   111qqz的小窝: http://111qqz.com/
