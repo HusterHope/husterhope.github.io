@@ -64,9 +64,9 @@ Roberts和Marshall等人所定义的好的视点是，与物体每个面的法�
 #### 视点熵
 
 香农(Shannon)对**熵**的定义是：离散型随机变量$X$可在集合$\{a_1,a_2,…,a_n\}$中取值，$X$的熵$H(X)$由下式计算得出：
-$$
-H(X) = -\sum_{i=1}^{n}p_ilog\ p_i\qquad\qquad(1)
-$$
+
+$$H(X) = -\sum_{i=1}^{n}p_ilog\ p_i\qquad\qquad(1)$$
+
 熵反映了随机变量的**不确定性**，信息的单位是*bit*。
 
 > To define viewpoint entropy we use as probability distribution the relative area of the projected faces over the sphere of directions centered in the viewpoint.
@@ -74,9 +74,8 @@ $$
 *上面原文里的这段话反复读了半天实在不知道该怎么理解。大意是，将场景放在一个球体区域的中心，然后在球面上移动以寻找视点，并为此定义随机变量和视点熵。*
 
 视点熵定义如下：
-$$
-H(X) = -\sum_{i=0}^{N_f} \frac{A_i}{A_t}log\frac{A_i}{A_t}\qquad\qquad(2)
-$$
+$$H(X) = -\sum_{i=0}^{N_f} \frac{A_i}{A_t}log\frac{A_i}{A_t}\qquad\qquad(2)$$
+
 其中，$N_f$是场景中面片的数量，$A_i$是第$i$个面片在该视点下的投影面积。$A_0$代表背景的投影面积，$A_t$是总投影面积。值得说明的是，$A_i/A_t$的值与面片法线和视线的夹角余弦值成正比，和视点到面片的距离成反比，这就同时保证了视线角度和被观察物体的大小。
 
 该方法的缺点是：必须使用一个额外的背景面片来接收投影。否则，视点距离场景的远近对熵的计算不构成影响，这和我们的选择目的不一致。
