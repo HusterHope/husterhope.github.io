@@ -4,7 +4,6 @@ layout: post
 excerpt: "两富人比谁钱多。如何能实现互相保密但可以比出谁钱多？"
 last_modified_at: 2012-02-05T10:27:01-05:00
 tags:
-  - Study
   - Algorithm
   - Protocol
 ---
