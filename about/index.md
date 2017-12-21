@@ -38,9 +38,7 @@ Email : luhp9696@gmail.com
 
 [Guestbook](http://leohope.com/2016/12/01/Guestbook/)
 
-ps. Comments are supported by [Disqus](https://disqus.com/). You may need a VPN to visit.
-
-( I've tried [Uyan](http://www.uyan.cc) and [Livere](https://livere.com/), but neither worked well. )
+ps. Comments are supported by [Livere](https://livere.com/). 
 
 pps. If not noted, **all** articles in this site(leohope.com) is original. Please contact me before you use or reprint them and you're always welcome:)
 
@@ -74,8 +72,6 @@ Email : luhp9696@gmail.com
 
 [留言板](http://leohope.com/2016/12/01/Guestbook/)
 
-ps. 网站内的评论区由[Disqus](https://disqus.com/)平台提供，可能需要VPN才能访问。
-
-（曾经用过[友言](http://www.uyan.cc)和[来必力](https://livere.com/)，不过都不太稳定）
+ps. 网站内的评论区由[Livere](https://livere.com/)平台提供。
 
 pps. 如无特别说明，本站内所有文章均为原创，转载前请先和我取得联系（一般都会同意的）。
