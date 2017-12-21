@@ -7,7 +7,6 @@ tags:
   - 3D
   - VR
   - UE
-  - PaperReading
 ---
 
 本文整理自Christian Timmerer和Karsten Müller2010年的文章「Immersive Future Media Technologies: From 3D Video to Sensory Experiences」，主要用于梳理沉浸式媒体技术的发展和代表性技术。

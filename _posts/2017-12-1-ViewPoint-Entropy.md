@@ -6,7 +6,6 @@ last_modified_at: 2012-02-05T10:27:01-05:00
 tags:
   - CG
   - 3D
-  - PaperReading
 ---
 
 本文整理自Pere-Pau Va ́zquezz , Miquel Feixasz , Mateu Sbertz , and Wolfgang Heidrich等人的论文《Viewpoint Selection using Viewpoint Entropy》VMV 2001Stuttgart, Germany, November 21–23, 2001 ，文章发表的时间很早，但文中的内容很实用，研究方法也颇为规范，整理借鉴，积累经验。
