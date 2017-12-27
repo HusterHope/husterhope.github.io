@@ -1,8 +1,7 @@
 ---
-title: "Setting Maya2017 Plugin Environment on Mac OS X"
+title: "MacOS配置Maya 2017插件环境"
 layout: post
 excerpt: "前后折腾了4个小时，终于算是把这个环境彻底配出来了，这里记录一下踩坑过程。"
-last_modified_at: 2012-02-05T10:27:01-05:00
 tags:
   - Maya
   - Environment
