@@ -2,7 +2,7 @@
 title: "动作捕捉数据的存储"
 layout: post
 excerpt: "运动捕捉的数据有许多格式，包括C3D、ASF/AMC、BVH、TRC、FBX等。"
-last_modified_at: 2012-02-05T10:27:01-05:00
+categories: 做笔记
 tags:
   - MotionCapture
 ---

@@ -3,6 +3,7 @@ title: "【桌游评测】535桌游吧的故事"
 layout: post
 tags:
   - Games
+categories: 玩游戏
 ---
 
 开个坑，把寝室三年玩过的桌游稍稍整理一下，有闲情的时候再写心得慢慢填坑。

@@ -2,7 +2,7 @@
 title: "Reading | 沉浸式媒体技术：从3D视频到感官体验"
 layout: post
 excerpt: "Immersive Future Media Technologies: From 3D Video to Sensory Experiences"
-last_modified_at: 2012-02-05T10:27:01-05:00
+categories: 读论文
 tags:
   - 3D
   - VR

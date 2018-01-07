@@ -7,6 +7,7 @@ tags:
   - OpenGL
   - MacOS
   - Environment
+categories: 解问题
 ---
 
 

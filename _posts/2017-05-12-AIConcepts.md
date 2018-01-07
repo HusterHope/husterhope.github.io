@@ -7,6 +7,7 @@ tags:
   - AI
   - ML
   - DL
+categories: 做笔记
 ---
 
 整理贴：机器学习(Machine Learning)、数据科学(Data Science)、人工智能(Artificial Intelligence)、深度学习(Deep Learning)和统计学(Statistics)之间的区别及联系。

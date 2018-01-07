@@ -2,7 +2,7 @@
 title: "在Github pages中渲染LaTex公式"
 layout: post
 excerpt: " "
-last_modified_at: 2012-02-05T10:27:01-05:00
+categories: 解问题
 tags:
   - Github
   - Jekyll

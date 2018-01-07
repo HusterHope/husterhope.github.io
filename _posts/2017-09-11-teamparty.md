@@ -2,10 +2,8 @@
 title: "记2015滇藏队第5次队聚"
 layout: post
 excerpt: "2017.9.10 星期天 暴雨转阴"
-last_modified_at: 2012-02-05T10:27:01-05:00
-tags:
-  - Games
-  - Writing
+categories: 写随笔
+
 ---
 
 2017.9.10 星期天 暴雨转阴

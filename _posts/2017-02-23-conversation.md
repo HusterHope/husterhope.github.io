@@ -2,9 +2,8 @@
 title: "一些交流记录"
 layout: post
 excerpt: "这两天和学院的两个很好的老师交流了一下保研方向事宜。"
-last_modified_at: 2012-02-05T10:27:01-05:00
-tags:
-  - Study
+categories: 写随笔
+
 ---
 
 

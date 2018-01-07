@@ -2,7 +2,7 @@
 title: "【Unity】网络游戏编程实践（5）协议"
 layout: post
 excerpt: "服务端框架中重要的一个模块，单独开一节详谈。"
-last_modified_at: 2012-02-05T10:27:01-05:00
+categories: 做笔记
 tags:
   - Unity
   - Protocol

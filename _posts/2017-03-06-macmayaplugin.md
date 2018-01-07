@@ -6,6 +6,7 @@ tags:
   - Maya
   - Environment
   - MacOS
+categories: 解问题
 ---
 
 

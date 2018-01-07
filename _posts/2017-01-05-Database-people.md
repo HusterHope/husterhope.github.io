@@ -2,7 +2,7 @@
 title: "整理 | 数据库领域的杰出人物"
 layout: post
 excerpt: "整理一下老师所提到的几位数据库领域的杰出贡献者"
-last_modified_at: 2012-02-05T10:27:01-05:00
+categories: 做笔记
 tags:
   - Database
 ---

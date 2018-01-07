@@ -7,6 +7,7 @@ tags:
   - OpenGL
   - Bezier
   - Algorithm
+categories: 解问题
 ---
 
 

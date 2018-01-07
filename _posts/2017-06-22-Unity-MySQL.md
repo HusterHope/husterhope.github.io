@@ -2,7 +2,7 @@
 title: "【Unity】网络游戏编程实践（3）MySQL存储历史记录"
 layout: post
 excerpt: "接着上篇的多人聊天应用来讲，如何添加一个聊天记录的功能呢？这就需要用到数据库了。"
-last_modified_at: 2012-02-05T10:27:01-05:00
+categories: 做笔记
 tags:
   - Unity
   - Database

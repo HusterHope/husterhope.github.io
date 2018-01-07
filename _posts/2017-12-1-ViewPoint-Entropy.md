@@ -2,7 +2,7 @@
 title: "Reading | 利用视点熵进行视点选择"
 layout: post
 excerpt: "Viewpoint Selection using Viewpoint Entropy"
-last_modified_at: 2012-02-05T10:27:01-05:00
+categories: 读论文
 tags:
   - CG
   - 3D

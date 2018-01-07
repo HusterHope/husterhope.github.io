@@ -7,6 +7,7 @@ tags:
   - B-Spline
   - OpenGL
   - Algorithm
+categories: 解问题
 ---
 
 实验：OpenGL固定管线绘制递推定义的、具有首尾重节点的、幂次可变的、可编辑的B样条曲线。

@@ -2,7 +2,7 @@
 title: "【简要记录】游戏公司视频面试题"
 layout: post
 excerpt: " "
-last_modified_at: 2012-02-05T10:27:01-05:00
+categories: 做笔记
 tags:
   - Games
   - Interview

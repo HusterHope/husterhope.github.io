@@ -2,7 +2,7 @@
 title: "【Unity】网络游戏编程实践（2）多人聊天小应用"
 layout: post
 excerpt: "编写异步Socket程序，理解多线程，构建简单的多人聊天应用。"
-last_modified_at: 2012-02-05T10:27:01-05:00
+categories: 做笔记
 tags:
   - Unity
   - Network
