@@ -25,7 +25,7 @@ My research interest is mainly focused on Immersive Media Technologies, such as 
 * UI design. (Just surf on website)
 
 
-* Broad games. Like CATAN / BETRAYAL AT HOUSE ON THE HILL / KTK etc. You can find the games [here](https://husterhope.github.io/2017/07/05/boardgames).
+* Broad games. Like CATAN / BETRAYAL AT HOUSE ON THE HILL / KTK etc. You can find the games [here](http://leohope.com/%E7%8E%A9%E6%B8%B8%E6%88%8F/2017/07/05/boardgames/).
 * Animation. Because my major is DMT, so I have lots of chance to know about the Animations. I have posted a few small videos on my Bilibili Homepage:  [HHHope's personal space](https://space.bilibili.com/13758485#!/ ) .
 * Riding mountain bike. I finished riding Dianzang Line in 2015.7(from Kunming to Lasa,about 2300km. The author's photo in the sidebar was taken @Deqin, Yunnan, China). In January,2016, I led a 9 members' team and rode around Hainan for a week(about 750km). However, I haven't taken a long-time journey since then.
 * New things / New ideas / New friend...
@@ -61,7 +61,7 @@ pps. If not noted, **all** articles in this site(leohope.com) is original. Pleas
 #### 个人兴趣
 
 * UI设计（主要是逛网站）
-* 桌游。例如「卡坦岛」、「山屋惊魂」、「三国杀」等。[这篇文章](https://husterhope.github.io/2017/07/05/boardgames)里有一些桌游的介绍。
+* 桌游。例如「卡坦岛」、「山屋惊魂」、「三国杀」等。[这篇文章](http://leohope.com/%E7%8E%A9%E6%B8%B8%E6%88%8F/2017/07/05/boardgames/)里有一些桌游的介绍。
 * 动画。由于专业是数媒，因此了解过不少和动画相关的知识。我在B站(Bilibili)有若干小视频短片投稿：[Up主-HHHope的个人空间](https://space.bilibili.com/13758485#!/)。
 * 骑行。2015年7月，骑行滇藏线（昆明-拉萨，全程2300余公里）并完成全程，博客侧边栏的作者照片拍摄于德钦（位于云南）的白马雪山。2016年冬我带队9人环海南，全程750公里。不过自那以后就基本没骑过长途了。
 * 新鲜事物／新想法／新朋友...
