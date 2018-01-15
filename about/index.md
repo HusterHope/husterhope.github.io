@@ -10,7 +10,7 @@ Welcome to my blog.
 
 Hi! This is Hope. 
 
-I'm a senior student at HUST, major in Digital Media Technology. Now I'm an intern @[NELVT](http://idm.pku.edu.cn/).
+I'm a senior student at HUST, major in Digital Media Technology. Now I'm an intern @[NELVT](http://idm.pku.edu.cn/). My adviser is Prof. [Siwei Ma](http://scholar.pku.edu.cn/siweima/bio) and [Wen Gao](http://www.jdl.ac.cn/htm-gaowen/).
 
 This is the blog I make records about what I've learned and what I'm thinking💡.
 
