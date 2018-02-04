@@ -20,11 +20,11 @@ tags:
 
 ---
 
-**Christian Simon Diercks**，一位在Science上发表过论文的化学界科研工作者，为我们带来了第四次课程。他与[第二篇日志](http://leohope.com/%E5%86%99%E9%9A%8F%E7%AC%94/2018/01/31/berkeleyd2/)中提到的**Farhad Fathieh **一样，来自[Yaghi‘s Group](http://yaghi.berkeley.edu/members.html)，国籍德国。
+**Christian Simon Diercks**，一位在Science上发表过论文的化学界科研工作者，为我们带来了第四次课程。他与[第二篇日志](http://leohope.com/%E5%86%99%E9%9A%8F%E7%AC%94/2018/01/31/berkeleyd2/)中提到的**Farhad Fathieh**一样，来自[Yaghi‘s Group](http://yaghi.berkeley.edu/members.html)，国籍德国。
 
-如果说上次Fathieh更多讲述的是自己科研道路上的心路历程，那么这次C.S. Diercks则完全是在讲做过的科研项目了，者对于非化学专业的我来说简直是灾难。
+如果说上次Fathieh更多讲述的是自己科研道路上的心路历程，那么这次C.S. Diercks则完全是在讲做过的科研项目了，后者对于非化学专业的我来说简直是灾难。
 
-更灾难的是，前一天行程安排中提到的讲解内容与实际不匹配，导致预习错了方向（这就是为不写科研细节在强行找借口）。
+更灾难的是，前一天行程安排中提到的讲解内容与实际不匹配，导致预习错了方向（这就是在为不写科研细节强行找借口
 
 关键点：通过在水中使用催化剂还原二氧化碳，进行人造光合作用，进行清洁能源的相关研究。讲的不算太长，论文题目也有所提及，于是我认为可以回来下来再看看论文。
 
