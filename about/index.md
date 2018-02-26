@@ -14,7 +14,7 @@ I'm a senior student at HUST, major in Digital Media Technology. Now I'm an inte
 
 This is the blog I make records about what I've learned and what I'm thinking💡.
 
-*Leo* means the fifth sign of the zodiac, which the sun enters about July 23.
+The *Leo* in domain name means the fifth sign of the zodiac, which the sun enters about July 23. *Hope* is homophonic to my Chinese name 'Haopeng'. So there is 'leohope'.
 
 #### Research Interest
 
@@ -52,7 +52,7 @@ pps. If not noted, **all** articles in this site(leohope.com) is original. Pleas
 
 这个博客主要记录我做的事情和一些想法💡。
 
-*Leo*代表狮子座。
+域名中的leo代表狮子座，hope和我的名字haopeng谐音，于是就有了leohope。
 
 #### 研究方向
 
