@@ -4,7 +4,7 @@ title: About
 sidebar_link: true
 ---
 
-欢迎访问我的博客！([English Version]((#1)))
+欢迎访问我的博客！([English Version](#1))
 
 #### 简介
 
