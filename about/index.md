@@ -4,6 +4,44 @@ title: About
 sidebar_link: true
 ---
 
+欢迎访问我的博客！([English Version]((#1)))
+
+#### 简介
+
+我目前是华中科技大学本科四年级的学生，专业为数字媒体技术。现在在[数字视频编解码技术国家工程实验室](http://idm.pku.edu.cn/)实习。
+
+这个博客主要记录我做的事情和一些想法💡。
+
+域名中的leo代表狮子座，hope和我的名字haopeng谐音，于是就有了leohope。
+
+#### 研究方向
+
+我的研究方向主要是沉浸式媒体技术，如AR/VR等。同时也对计算机视觉感兴趣。
+
+#### 个人兴趣
+
+- UI设计（主要是逛网站）
+- 桌游。例如「卡坦岛」、「山屋惊魂」、「三国杀」等。[这篇文章](http://leohope.com/%E7%8E%A9%E6%B8%B8%E6%88%8F/2017/07/05/boardgames/)里有一些桌游的介绍。
+- 动画。由于专业是数媒，因此了解过不少和动画相关的知识。我在B站(Bilibili)有若干小视频短片投稿：[Up主-HHHope的个人空间](https://space.bilibili.com/13758485#!/)。
+- 骑行。2015年7月，骑行滇藏线（昆明-拉萨，全程2300余公里）并完成全程，博客侧边栏的作者照片拍摄于云南德钦的白马雪山。2016年冬我带队9人，7天环海南（东线+中线），全程750公里。不过自那以后就基本没骑过长途了。
+- 新鲜事物／新想法／新朋友...
+
+#### 联系方式
+
+Email : luhp9696@gmail.com
+
+[留言板](http://leohope.com/2016/12/01/Guestbook/)
+
+ps. 网站内的评论区由[Livere](https://livere.com/)平台提供。
+
+pps. 如无特别说明，本站内所有文章均为原创，转载前请先和我取得联系（一般都会同意的）。
+
+此外，我会认真检查发布的每篇文章（特别是技术文章），但因为自己也仍在学习中，难免存在错误，如果您在阅读后存在疑惑或发现问题，欢迎与我邮件交流，十分感谢。
+
+---
+
+<div id="1"></div>
+
 Welcome to my blog.
 
 #### Introduction
@@ -40,38 +78,7 @@ Email : luhp9696@gmail.com
 
 ps. Comments are supported by [Livere](https://livere.com/). 
 
-pps. If not noted, **all** articles in this site(leohope.com) is original. Please contact me before you use or reprint them and you're always welcome:)
+pps. If not noted, **all** articles in this site(leohope.com) is original. Please contact me before you use or reprint them and you're always welcome:) 
 
----
+By the way, I've tried my best to be careful on every article I've written, but I'm a student now, so there **must** have some mistakes. If you occasionally find some of them, please contact me and I'll be very grateful for  that.
 
-欢迎访问我的博客！
-
-#### 简介
-
-我目前是华中科技大学本科四年级的学生，专业为数字媒体技术。现在在[数字视频编解码技术国家工程实验室](http://idm.pku.edu.cn/)实习。
-
-这个博客主要记录我做的事情和一些想法💡。
-
-域名中的leo代表狮子座，hope和我的名字haopeng谐音，于是就有了leohope。
-
-#### 研究方向
-
-我的研究方向主要是沉浸式媒体技术，如AR/VR等。同时也对计算机视觉感兴趣。
-
-#### 个人兴趣
-
-* UI设计（主要是逛网站）
-* 桌游。例如「卡坦岛」、「山屋惊魂」、「三国杀」等。[这篇文章](http://leohope.com/%E7%8E%A9%E6%B8%B8%E6%88%8F/2017/07/05/boardgames/)里有一些桌游的介绍。
-* 动画。由于专业是数媒，因此了解过不少和动画相关的知识。我在B站(Bilibili)有若干小视频短片投稿：[Up主-HHHope的个人空间](https://space.bilibili.com/13758485#!/)。
-* 骑行。2015年7月，骑行滇藏线（昆明-拉萨，全程2300余公里）并完成全程，博客侧边栏的作者照片拍摄于德钦（位于云南）的白马雪山。2016年冬我带队9人环海南，全程750公里。不过自那以后就基本没骑过长途了。
-* 新鲜事物／新想法／新朋友...
-
-#### 联系方式
-
-Email : luhp9696@gmail.com
-
-[留言板](http://leohope.com/2016/12/01/Guestbook/)
-
-ps. 网站内的评论区由[Livere](https://livere.com/)平台提供。
-
-pps. 如无特别说明，本站内所有文章均为原创，转载前请先和我取得联系（一般都会同意的）。
