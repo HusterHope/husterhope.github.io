@@ -16,7 +16,7 @@ sidebar_link: true
 
 #### 研究方向
 
-我的研究方向主要是沉浸式媒体技术，如AR/VR等。同时也对计算机视觉感兴趣。
+我目前已直博上海交通大学[未来媒体网络协同创新中心](http://cmic.sjtu.edu.cn/CN/Default.aspx)，导师是[高文](http://www.jdl.ac.cn/htm-gaowen/)院士和[马思伟](http://vcl.idm.pku.edu.cn/people.html?id=5a6a9ef3dca85200017d9fe2)教授，主要研究方向是沉浸式媒体技术，如AR/VR等。
 
 #### 个人兴趣
 
@@ -56,7 +56,7 @@ The *Leo* in domain name means the fifth sign of the zodiac, which the sun enter
 
 #### Research Interest
 
-My research interest is mainly focused on Immersive Media Technologies, such as virtual reality(VR) and augmented reality(AR). I'm also interested in computer vision.
+My research interest is mainly focused on Immersive Media Technologies, such as virtual reality(VR) and augmented reality(AR). 
 
 #### Personal Interest
 
