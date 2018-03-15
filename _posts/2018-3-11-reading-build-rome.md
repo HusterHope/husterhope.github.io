@@ -3,7 +3,7 @@ title: "Reading | 罗马就是一天建成的"
 layout: post
 categories: 读论文
 tags:
-  - 3D
+  - Re3D
   - SfM
   - MVS
   - PointCloud

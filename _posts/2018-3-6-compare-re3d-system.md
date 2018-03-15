@@ -3,7 +3,7 @@ title: "对比几个三维重建系统"
 layout: post
 categories: 解问题
 tags:
-  - 3D
+  - Re3D
   - SfM
   - MVS
   - PointCloud
