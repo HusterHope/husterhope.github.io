@@ -1,5 +1,5 @@
 ---
-title: "Reading | 一张图建起一个家"
+title: "Reading | 一张图建一个屋"
 layout: post
 categories: 读论文
 tags:
