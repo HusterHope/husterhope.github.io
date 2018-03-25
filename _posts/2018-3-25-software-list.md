@@ -1,4 +1,10 @@
-## Mac上安装Linux的后续
+---
+title: "Mac上安装Linux的后续"
+layout: post
+categories: 解问题
+tags:
+  - MacOS
+---
 
 mac分区-U盘制作启动盘-装Deepin（Linux系统）-Linux无线网卡bug-返回mac-尝试换个linux系统-合并mac分区-合并分区出bug（linux的空间不见了）-尝试重启-重启gg
 
