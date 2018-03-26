@@ -13,6 +13,8 @@ tags:
 
 David C. Lee, Martial Hebert, Takeo Kanade, “[Geometric Reasoning for Single Image Structure Recovery](http://repository.cmu.edu/cgi/viewcontent.cgi?article=1322&context=robotics),” The IEEE International Conference on Computer Vision and Pattern Recognition, June 2009.
 
+<!-- more -->
+
 ---
 
 ## 引入

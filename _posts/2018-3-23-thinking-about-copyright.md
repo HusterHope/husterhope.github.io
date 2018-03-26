@@ -4,7 +4,7 @@ layout: post
 categories: 写随笔
 ---
 
----
+<!-- more -->
 
 ### 第一件事
 
