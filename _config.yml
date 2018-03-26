@@ -22,7 +22,7 @@ permalink: pretty
 paginate: 10
 paginate_path: "/page:num/"
 archive:
-  paginate: 10
+  paginate: 20
   paginate_path: "/page:num/"
 category:
   #paginate: 10
@@ -35,7 +35,7 @@ tag:
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md"]
 
 # Separator
-#excerpt_separator: <!-- more -->
+excerpt_separator: <!-- more -->
 
 # Code Highlighter
 ## 'pygments' is unsupported on GitHub Pages now.
@@ -213,9 +213,9 @@ font:
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
-  知乎: https://www.zhihu.com/people/lu-hao-peng-26/activities
+  Zhihu: https://www.zhihu.com/people/lu-hao-peng-26/activities
   GitHub: https://github.com/HusterHope
-  B站: https://space.bilibili.com/13758485#!/
+  Bilibili: https://space.bilibili.com/13758485#!/
 
 
 # Social Links Icons
@@ -230,8 +230,8 @@ social_icons:
   GitHub: github
   Twitter: twitter
   Weibo: weibo
-  知乎: coffee
-  B站: play
+  Zhihu: coffee
+  Bilibili: play
 
 
 # Sidebar Avatar
