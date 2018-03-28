@@ -34,7 +34,7 @@ Email : luhp9696@gmail.com
 
 ps. 网站内的评论区由[Livere](https://livere.com/)平台提供。
 
-如无特别说明，本站内所有文章均为原创，转载请注明出处。此外，我会认真检查发布的每篇文章（特别是技术文章），但因为自己也仍在学习中，难免存在错误，如果您在阅读后存在疑惑或发现问题，欢迎与我邮件交流，十分感谢。
+如无特别说明，本站内所有文章采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可，转载请注明出处。此外，我会认真检查发布的每篇文章（特别是技术文章），但因为自己也仍在学习中，难免存在错误，如果您在阅读后存在疑惑或发现问题，欢迎与我邮件交流，十分感谢。
 
 最后，欢迎写独立博客的小伙伴们互换友链～
 
@@ -78,7 +78,7 @@ Email : luhp9696@gmail.com
 
 ps. Comments are supported by [Livere](https://livere.com/). 
 
-pps. If not noted, **all** articles in this site(leohope.com) is original. Please contact me before you use or reprint them and you're always welcome:) 
+pps. If not noted, **all** articles in this site are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 By the way, I've tried my best to be careful on every article I've written, but I'm a student now, so there **must** have some mistakes. If you occasionally find some of them, please contact me and I'll be very grateful for  that.
 
