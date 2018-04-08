@@ -15,6 +15,8 @@ Shadowsocks在Windows、Mac、Android、iOS下都有对应的图形化程序或�
 
 部分参考：https://zhjpaul.github.io/2017/04/22/how-to-use-shadowsocks-in-ubuntu.html
 
+<!-- more -->
+
 ### 安装ShadowSocks
 
 终端(Terminal)依次输入以下指令：
