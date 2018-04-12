@@ -9,6 +9,7 @@ tags:
   - PointCloud
   - Qmake
   - Cmake
+  - Linux
 ---
 
 接着前一阵子记下的[上一篇](http://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/03/22/multi-re3d-bugs/)文章写。
