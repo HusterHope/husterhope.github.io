@@ -5,6 +5,7 @@ categories: 解问题
 tags:
   - Linux
   - Environment
+  - Ubuntu
 ---
 
 Shadowsocks在Windows、Mac、Android、iOS下都有对应的图形化程序或者App，完全不需要配置，不知Linux有什么毒..居然挂个梯子都有坑
