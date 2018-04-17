@@ -43,7 +43,7 @@ MinGW-w64 has been built without errors.
 
 这说明第一个模块还比较顺利，后面开始出坑，总的来说还没有出现特别难以解决的情况，只需不断google -> test -> google -> test。总体上错误分为三类：
 
-1. 从外网下载源码安装包时响应时间过长。
+### 从外网下载源码安装包时响应时间过长
 
 这一点即使科学上网也不能完全解决，因此有些访问超时的库只好找镜像下载。这些库包括：
 
@@ -65,7 +65,7 @@ MinGW-w64 has been built without errors.
 mv aom_git aom  # rename aom_git to aom for further operations
 ```
 
-2. Ubuntu14.04上有些依赖库版本过低
+### Ubuntu14.04上有些依赖库版本过低
 
 脚本运行中出现如下错误：
 
@@ -98,7 +98,7 @@ sudo make
 sudo make install
 ```
 
-3. 奇怪的其他问题
+### 奇怪的其他问题
 
 ```
 AX_SPLIT_VERSION command not found 
