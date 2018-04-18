@@ -28,7 +28,7 @@ sidebar_link: true
 
 #### 联系方式
 
-Email : luhp9696@gmail.com
+Email :  luhp9696 [AT] gmail [DOT] com
 
 [留言板](http://leohope.com/2016/12/01/Guestbook/)
 
@@ -72,7 +72,7 @@ My research interest is mainly focused on Immersive Media Technologies, such as 
 
 #### Contact me
 
-Email : luhp9696@gmail.com
+Email : luhp9696 [AT] gmail [DOT] com
 
 [Guestbook](http://leohope.com/2016/12/01/Guestbook/)
 
