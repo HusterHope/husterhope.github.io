@@ -1,5 +1,5 @@
 ---
-title: "多视图三维重建系统踩坑记录（1）"
+title: "三维重建系统踩坑记录（1）——MacOS"
 layout: post
 categories: 解问题
 tags:
@@ -9,6 +9,7 @@ tags:
   - PointCloud
   - Git
   - Github
+  - MacOS
 ---
 
 对多视图三维重建的理论方面有了初步认识之后，就可以开始尝试运行完整的三维重建系统管线了。
