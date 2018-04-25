@@ -1,5 +1,5 @@
 ---
-title: "三维重建系统踩坑记录（2）-Linux"
+title: "三维重建系统踩坑记录（2）——Linux"
 layout: post
 categories: 解问题
 tags:
