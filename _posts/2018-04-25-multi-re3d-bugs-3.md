@@ -148,4 +148,43 @@ p = Runtime.getRuntime().exec("/home/path/to/bundler/AllRec.sh");
 
 ---
 
-这个Bug已经卡了两天依然不知道什么原因..只好把现在已经调通的部分记录一下。
+4.26更新：
+
+找到问题原因：**图像在编码传输过程中格式出现问题，导致运行三维重建系统时不能产生有效的输出。**
+
+解决方案：Google+StackOverflow，找其他编码方法。
+
+在[这个问题](https://stackoverflow.com/questions/4830711/how-to-convert-a-image-into-base64-string)下，[Chandra Sekhar](https://stackoverflow.com/users/883033/chandra-sekhar)的回答很有效：
+
+```java
+InputStream inputStream = new FileInputStream(fileName);//You can get an inputStream using any IO API
+byte[] bytes;
+byte[] buffer = new byte[8192];
+int bytesRead;
+ByteArrayOutputStream output = new ByteArrayOutputStream();
+try {
+    while ((bytesRead = inputStream.read(buffer)) != -1) {
+    output.write(buffer, 0, bytesRead);
+}
+} catch (IOException e) {
+e.printStackTrace();
+}
+bytes = output.toByteArray();
+String encodedString = Base64.encodeToString(bytes, Base64.DEFAULT);
+```
+
+不使用Bitmap，而是改用InputStream。
+
+这样终于看到了重建后的点云数据。
+
+接下来是移动端渲染问题。
+
+首先试用[Android PLY Reader](https://github.com/bminortx/Android-PLY-Reader)作为显示Ply数据的工具，集成至项目中，报错显示颜色的着色器为空，无法显示模型。
+
+接下来试用[Model Viewer 3d](https://github.com/dbrant/ModelViewer3D)渲染，能够显示，结果为白色点云，同样未能读取颜色数据。
+
+但发回的ply数据在Linux-Meshlab中打开是有彩色显示的，该问题尚待解决。
+
+此外，数据在局域网传输过程中明显存在部分丢失，导致深度估计信息有误（下右图），但点云数目上却相差无几，这可能也是后期需要改进的地方。
+
+![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-9.png)
