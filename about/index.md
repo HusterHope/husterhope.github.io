@@ -4,81 +4,32 @@ title: About
 sidebar_link: true
 ---
 
-欢迎访问我的博客！([English Version](#1))
+欢迎访问北鱼空间。
 
-#### 简介
 
-我目前是华中科技大学本科四年级的学生，专业为数字媒体技术。现在在[数字视频编解码技术国家工程实验室](http://idm.pku.edu.cn/)实习。
 
-这个博客主要记录我做的事情和一些想法💡。
+撰稿人信息：
 
-域名中的leo代表狮子座，hope和我的名字haopeng谐音，于是就有了leohope。
+大四HUSTer/数字媒体技术/旧域名[leohope.com](leohope.com)/常逛[知乎](https://www.zhihu.com/people/lu-hao-peng-26/activities)和[B站](https://space.bilibili.com/13758485/#/)/桌游&骑行爱好者
 
-#### 研究方向
 
-我目前已直博上海交通大学[未来媒体网络协同创新中心](http://cmic.sjtu.edu.cn/CN/Default.aspx)，导师是[高文](http://www.jdl.ac.cn/htm-gaowen/)院士和[马思伟](http://vcl.idm.pku.edu.cn/people.html?id=5a6a9ef3dca85200017d9fe2)教授，主要研究方向是沉浸式媒体技术，如AR/VR等。
 
-#### 个人兴趣
+你可以前往[标签页](https://northfish.space/tags/)或[随笔](https://northfish.space/category/#/%E5%86%99%E9%9A%8F%E7%AC%94)栏目找些感兴趣的内容阅读。
 
-- UI设计（主要是逛网站）
-- 桌游。例如「卡坦岛」、「山屋惊魂」、「三国杀」等。[这篇文章](http://leohope.com/%E7%8E%A9%E6%B8%B8%E6%88%8F/2017/07/05/boardgames/)里有一些桌游的介绍。
-- 动画。由于专业是数媒，因此了解过不少和动画相关的知识。我在B站(Bilibili)有若干小视频短片投稿：[Up主-HHHope的个人空间](https://space.bilibili.com/13758485#!/)。
-- 骑行。2015年7月，骑行滇藏线（昆明-拉萨，全程2300余公里）并完成全程，博客侧边栏的作者照片拍摄于云南德钦的白马雪山。2016年冬我带队9人，7天环海南（东线+中线），全程750公里。不过自那以后就基本没骑过长途了。
-- 新鲜事物／新想法／新朋友...
+如无特别说明，本站所有文章均采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可，转载请注明出处。
 
-#### 联系方式
+因北鱼才学疏浅，空间内技术类文章可能存在错误，如果你在阅读后存在疑惑或发现问题，欢迎在评论区指出，或直接邮件交流。
 
 Email :  luhp9696 [AT] gmail [DOT] com
 
 [留言板](http://leohope.com/2016/12/01/Guestbook/)
 
-ps. 网站内的评论区由[Livere](https://livere.com/)平台提供。
 
-如无特别说明，本站内所有文章采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可，转载请注明出处。此外，我会认真检查发布的每篇文章（特别是技术文章），但因为自己也仍在学习中，难免存在错误，如果您在阅读后存在疑惑或发现问题，欢迎与我邮件交流，十分感谢。
+
+彩蛋：
+
+[北鱼给你跳个舞](https://www.bilibili.com/video/av11238542)
+
+
 
 最后，欢迎写独立博客的小伙伴们互换友链～
-
----
-
-<div id="1"></div>
-
-Welcome to my blog.
-
-#### Introduction
-
-Hi! This is Hope. 
-
-I'm a senior student at HUST, major in Digital Media Technology. Now I'm an intern @[NELVT](http://idm.pku.edu.cn/). My adviser is Prof. [Siwei Ma](http://scholar.pku.edu.cn/siweima/bio) and [Wen Gao](http://www.jdl.ac.cn/htm-gaowen/).
-
-This is the blog I make records about what I've learned and what I'm thinking💡.
-
-The *Leo* in domain name means the fifth sign of the zodiac, which the sun enters about July 23. *Hope* is homophonic to my Chinese name 'Haopeng'. So there is 'leohope'.
-
-#### Research Interest
-
-My research interest is mainly focused on Immersive Media Technologies, such as virtual reality(VR) and augmented reality(AR). 
-
-#### Personal Interest
-
-* UI design. (Just surf on website)
-
-
-* Broad games. Like CATAN / BETRAYAL AT HOUSE ON THE HILL / KTK etc. You can find the games [here](http://leohope.com/%E7%8E%A9%E6%B8%B8%E6%88%8F/2017/07/05/boardgames/).
-* Animation. Because my major is DMT, so I have lots of chance to know about the Animations. I have posted a few small videos on my Bilibili Homepage:  [HHHope's personal space](https://space.bilibili.com/13758485#!/ ) .
-* Riding mountain bike. I finished riding Dianzang Line in 2015.7(from Kunming to Lasa,about 2300km. The author's photo in the sidebar was taken @Deqin, Yunnan, China). In January,2016, I led a 9 members' team and rode around Hainan for a week(about 750km). However, I haven't taken a long-time journey since then.
-* New things / New ideas / New friend...
-
-
-
-#### Contact me
-
-Email : luhp9696 [AT] gmail [DOT] com
-
-[Guestbook](http://leohope.com/2016/12/01/Guestbook/)
-
-ps. Comments are supported by [Livere](https://livere.com/). 
-
-pps. If not noted, **all** articles in this site are licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
-
-By the way, I've tried my best to be careful on every article I've written, but I'm a student now, so there **must** have some mistakes. If you occasionally find some of them, please contact me and I'll be very grateful for  that.
-

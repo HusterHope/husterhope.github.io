@@ -1,7 +1,7 @@
 ---
 title: "2018伯克利冬令营（3）永远年轻，永远热泪盈眶"
 layout: post
-categories: 写随笔
+categories: 做笔记
 tags:
   - BerkeleyTour
   - CG

@@ -1,7 +1,7 @@
 ---
 title: "2018伯克利冬令营（4）从零到壹：计算机产业一角"
 layout: post
-categories: 写随笔
+categories: 做笔记
 tags:
   - BerkeleyTour
   - CG

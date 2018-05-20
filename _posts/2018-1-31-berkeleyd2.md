@@ -1,7 +1,7 @@
 ---
 title: "2018伯克利冬令营（2） 带着问题搞科研"
 layout: post
-categories: 写随笔
+categories: 做笔记
 tags:
   - BerkeleyTour
 ---

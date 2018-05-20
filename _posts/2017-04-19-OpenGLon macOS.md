@@ -362,9 +362,6 @@ glShaderSource(shader, 1, &entry->source, NULL);
 //  triangle.cpp
 //  gl_c1
 //
-//  Created by SillyDog on 2017/4/19.
-//  Copyright © 2017年 Hope. All rights reserved.
-//
 
 //////////////////////////////////////////////////////////////////////////////
 //
