@@ -6,13 +6,11 @@ sidebar_link: true
 
 欢迎访问北鱼空间。
 
-
-
 撰稿人信息：
 
 大四HUSTer/数字媒体技术/旧域名[leohope.com](leohope.com)/常逛[知乎](https://www.zhihu.com/people/lu-hao-peng-26/activities)和[B站](https://space.bilibili.com/13758485/#/)/桌游&骑行爱好者
 
-
+---
 
 你可以前往[标签页](https://northfish.space/tags/)或[随笔](https://northfish.space/category/#/%E5%86%99%E9%9A%8F%E7%AC%94)栏目找些感兴趣的内容阅读。
 
@@ -24,12 +22,10 @@ Email :  luhp9696 [AT] gmail [DOT] com
 
 [留言板](http://leohope.com/2016/12/01/Guestbook/)
 
-
+---
 
 彩蛋：
 
 [北鱼给你跳个舞](https://www.bilibili.com/video/av11238542)
-
-
 
 最后，欢迎写独立博客的小伙伴们互换友链～
