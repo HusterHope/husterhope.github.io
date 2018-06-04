@@ -120,7 +120,7 @@ mp3_embed();
 
 第二步：将上述文件放入Jekyll项目的"_include"文件夹内。
 
-![]()
+![](http://ohn6qfqhe.bkt.clouddn.com/music-player.jpg)
 
 第三步：找到上述文件夹内的_layout.html文件，修改底部内容为：
 
