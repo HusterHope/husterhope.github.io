@@ -21,7 +21,7 @@ categories: 解问题
 
 第一步：下载[open-embed.html](https://raw.githubusercontent.com/jhvanderschee/jekyllcodex/gh-pages/_includes/open-embed.html)（点进链接-右键-存储为）源码如下
 
-```javascript
+```html
 <style>
 .videoWrapper {
 	position: relative;
@@ -124,7 +124,7 @@ mp3_embed();
 
 第三步：找到上述文件夹内的_layout.html文件，修改底部内容为：
 
-```html
+```
 <!--以上代码省略-->
 {% include open-embed.html %}
 </body>
