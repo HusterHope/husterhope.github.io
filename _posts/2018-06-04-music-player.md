@@ -124,11 +124,7 @@ mp3_embed();
 
 第三步：找到上述文件夹内的_layout.html文件，修改底部内容为：
 
-\{% include open-embed.html %\}
-
-\</body>
-
-\</html>
+![](http://ohn6qfqhe.bkt.clouddn.com/music-player-2.png)
 
 ### 调用
 
