@@ -24,8 +24,6 @@ Email :  luhp9696 [AT] gmail [DOT] com
 
 ---
 
-彩蛋：
 
-[Hope给你跳个舞](https://www.bilibili.com/video/av11238542)
 
 最后，欢迎写独立博客的小伙伴们互换友链～
