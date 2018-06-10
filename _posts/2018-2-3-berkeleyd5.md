@@ -20,7 +20,7 @@ tags:
 
 ---
 
-**Christian Simon Diercks**，一位在Science上发表过论文的化学界科研工作者，为我们带来了第四次课程。他与[第二篇日志](http://leohope.com/%E5%86%99%E9%9A%8F%E7%AC%94/2018/01/31/berkeleyd2/)中提到的**Farhad Fathieh**一样，来自[Yaghi‘s Group](http://yaghi.berkeley.edu/members.html)，国籍德国。
+**Christian Simon Diercks**，一位在Science上发表过论文的化学界科研工作者，为我们带来了第四次课程。他与[第二篇日志](https://leohope.com/%E5%86%99%E9%9A%8F%E7%AC%94/2018/01/31/berkeleyd2/)中提到的**Farhad Fathieh**一样，来自[Yaghi‘s Group](http://yaghi.berkeley.edu/members.html)，国籍德国。
 
 如果说上次Fathieh更多讲述的是自己科研道路上的心路历程，那么这次C.S. Diercks则完全是在讲做过的科研项目了，后者对于非化学专业的我来说简直是灾难。
 
@@ -157,7 +157,7 @@ Zafar基本上都只会在第一句话正面回答问题，后面就开始围着
 
 ---
 
-下午的主讲人并不陌生，正是在[第一天课堂上](http://leohope.com/%E5%86%99%E9%9A%8F%E7%AC%94/2018/01/30/berkeleyd1/)为我们讲解人工智能课题的Daniel Aranki博士，今天的主题是物联网(IoT, Internet of Things)。想到他偏科普性质的讲课思路，料想今天的内容不会太难。实际体验确实如此。
+下午的主讲人并不陌生，正是在[第一天课堂上](https://leohope.com/%E5%86%99%E9%9A%8F%E7%AC%94/2018/01/30/berkeleyd1/)为我们讲解人工智能课题的Daniel Aranki博士，今天的主题是物联网(IoT, Internet of Things)。想到他偏科普性质的讲课思路，料想今天的内容不会太难。实际体验确实如此。
 
 关于物联网，Aranki分四个部分讲解：简介、应用、系统和架构、隐私和安全
 
@@ -183,7 +183,7 @@ Zafar基本上都只会在第一句话正面回答问题，后面就开始围着
 
 隐私安全问题其实非常现实，特别是在医疗健康的物联网应用上。假如有人身体上安装了类似心脏起搏器、胰岛素自动注射器等微型硬件，假如这样的系统被入侵，则会对患者的生命安全构成严重威胁。
 
-最后Aranki简单展示了他在phd期间的科研工作，均与物联网和医疗相关。还运用了增强现实技术作远程通话重现(Telepresence)，看到这里感觉有点和自己以后的科研工作相关了，很有亲切感（系统架构可以类比[这篇文章](http://leohope.com/%E8%AF%BB%E8%AE%BA%E6%96%87/2017/11/29/MR-system/)）
+最后Aranki简单展示了他在phd期间的科研工作，均与物联网和医疗相关。还运用了增强现实技术作远程通话重现(Telepresence)，看到这里感觉有点和自己以后的科研工作相关了，很有亲切感（系统架构可以类比[这篇文章](https://leohope.com/%E8%AF%BB%E8%AE%BA%E6%96%87/2017/11/29/MR-system/)）
 
 ---
 

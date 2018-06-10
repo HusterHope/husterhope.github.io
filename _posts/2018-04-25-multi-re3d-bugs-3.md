@@ -19,9 +19,9 @@ PC端运行效果差不多了之后，开始部署移动端。思路是将采集
 
 之前的踩坑记录参见：
 
-[三维重建系统踩坑记录（1）——MacOS](http://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/03/22/multi-re3d-bugs/)
+[三维重建系统踩坑记录（1）——MacOS](https://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/03/22/multi-re3d-bugs/)
 
-[三维重建系统踩坑记录（2）——Linux](http://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/04/11/multi-re3d-bugs-2/)
+[三维重建系统踩坑记录（2）——Linux](https://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/04/11/multi-re3d-bugs-2/)
 
 因为没什么移动端开发的经验，只好从手头上能用的环境和设备出发：
 

@@ -22,7 +22,7 @@ tags:
 
 首先是用哪个系统的问题。
 
-根据之前的[调研记录](http://northfish.space/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/03/06/compare-re3d-system/)，能够顺利完成第一步（Structure From Motion）的系统有：
+根据之前的[调研记录](https://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/03/06/compare-re3d-system/)，能够顺利完成第一步（Structure From Motion）的系统有：
 
 * Bundler
 * Colmap

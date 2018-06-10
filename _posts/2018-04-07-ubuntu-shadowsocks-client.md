@@ -76,4 +76,4 @@ sudo sslocal -c '/home/username/Desktop/ss.json'
 
 ---
 
-如果没有服务器，可以到[这篇文章](http://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/01/19/v-p-n/)里查看快速搭建方法。
+如果没有服务器，可以到[这篇文章](https://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/01/19/v-p-n/)里查看快速搭建方法。

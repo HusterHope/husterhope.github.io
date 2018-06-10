@@ -12,9 +12,9 @@ tags:
   - Linux
 ---
 
-接着前一阵子记下的[上一篇](http://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/03/22/multi-re3d-bugs/)文章写。
+接着前一阵子记下的[上一篇](https://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/03/22/multi-re3d-bugs/)文章写。
 
-下列项目的具体地址可以在[调研记录](http://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/03/06/compare-re3d-system/)里找到。
+下列项目的具体地址可以在[调研记录](https://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/03/06/compare-re3d-system/)里找到。
 
 ### Bundler
 
