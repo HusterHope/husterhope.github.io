@@ -216,7 +216,7 @@ social:
   Zhihu: https://www.zhihu.com/people/lu-hao-peng-26/activities
   GitHub: https://github.com/HusterHope
   Bilibili: https://space.bilibili.com/13758485#!/
-
+  Email: mailto:luhp9696@gmail.com
 
 # Social Links Icons
 # Icon Mapping:
@@ -232,6 +232,7 @@ social_icons:
   Weibo: weibo
   Zhihu: coffee
   Bilibili: play
+  Email: envelope
 
 
 # Sidebar Avatar
