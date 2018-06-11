@@ -9,7 +9,7 @@ subtitle: 有间杂货铺
 description: 靡不有初，鲜克有终。
 author: Lhp
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
-language: en
+language: zh-Hans
 date_format: '%Y-%m-%d'
 
 # URL
@@ -22,7 +22,7 @@ permalink: pretty
 paginate: 10
 paginate_path: "/page:num/"
 archive:
-  paginate: 20
+  paginate: 10
   paginate_path: "/page:num/"
 category:
   #paginate: 10
@@ -286,8 +286,8 @@ sidebar:
 
 # Blog rolls
 links_title: Friends
-#links_layout: block
-links_layout: inline
+links_layout: block
+#links_layout: inline
 links:
   111qqz的小窝: https://111qqz.com/
   Yalv的博客: https://yalv.me/
@@ -500,7 +500,7 @@ rating:
 # Show number of visitors to each article.
 # You can visit https://leancloud.cn get AppID and AppKey.
 leancloud_visitors:
-  enable: true
+  enable: false
   app_id: bI7Rjm8YrBSC931DlmknDm4d-gzGzoHsz
   app_key: Gixh81GMuzVO00RWdPYxfN0j
 
