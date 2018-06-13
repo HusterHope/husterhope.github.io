@@ -4,11 +4,13 @@ title: About
 sidebar_link: true
 ---
 
-欢迎访问我的个人博客。
+欢迎访问我的博客。
 
 撰稿人信息：
 
-大四HUSTer待毕业/数字媒体技术/常逛[知乎](https://www.zhihu.com/people/lu-hao-peng-26/activities)和[B站](https://space.bilibili.com/13758485/#/)/桌游&骑行爱好者
+大四HUSTer待毕业/桌游&骑行爱好者/即将开始Phd Student第一个五年计划/[PKU-VCL](http://vcl.idm.pku.edu.cn/)实习生
+
+目前主要研究工作包括三维重建/AR/MR技术及系统
 
 ---
 
@@ -24,6 +26,4 @@ Email :  luhp9696 [AT] gmail [DOT] com
 
 ---
 
-
-
-最后，欢迎写独立博客的小伙伴们互换友链～
+最后，欢迎写博客的小伙伴们互换友链～
