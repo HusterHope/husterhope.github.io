@@ -8,7 +8,7 @@ sidebar_link: true
 
 撰稿人信息：
 
-大四HUSTer待毕业/桌游&骑行爱好者/即将开始Phd Student第一个五年计划/[PKU-VCL](http://vcl.idm.pku.edu.cn/)实习生
+大四HUSTer待毕业/桌游爱好者（[不完全评测戳这里](https://leohope.com/%E7%8E%A9%E6%B8%B8%E6%88%8F/2017/07/05/boardgames/)）/骑行爱好者/即将开始Phd Student第一个五年计划/[PKU-VCL](http://vcl.idm.pku.edu.cn/)实习生
 
 目前主要研究工作包括三维重建/AR/MR技术及系统
 
