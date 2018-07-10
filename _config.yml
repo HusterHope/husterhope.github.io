@@ -289,12 +289,13 @@ links_title: Friends
 links_layout: block
 #links_layout: inline
 links:
-  111qqz的小窝: https://111qqz.com/
-  Yalv的博客: https://yalv.me/
-  独立世界: https://yjk.im/
+  111qqz: https://111qqz.com/
+  Yalv: https://yalv.me/
+  YJK: https://yjk.im/
   大黄菌: http://kyonhuang.top/
   Liadbiz: http://liadbiz.github.io/
-  CharsTech: http://chars.tech/about/
+  CharsTech: http://chars.tech/
+  五斤：https://www.chairyfish.com/
 
 
 # ---------------------------------------------------------------
