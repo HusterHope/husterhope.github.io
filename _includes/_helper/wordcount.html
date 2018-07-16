@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1561.4">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; line-height: 14.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+    span.s2 {font: 12.0px 'Songti SC'; font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% comment %} wordcount(source) {% endcomment %}</span></p>
+<p class="p1"><span class="s1">{% assign source = source | strip_html | strip_newlines %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = source | upcase %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: 'A' | remove: 'B' | remove: 'C' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: 'D' | remove: 'E' | remove: 'F' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: 'G' | remove: 'H' | remove: 'I' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: 'J' | remove: 'K' | remove: 'L' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: 'M' | remove: 'N' | remove: 'O' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: 'P' | remove: 'Q' | remove: 'R' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: 'S' | remove: 'T' | remove: 'U' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: 'V' | remove: 'W' | remove: 'X' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: 'Y' | remove: 'Z' %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: ' ' | remove: '"' | remove: '.' | remove: ',' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: '?' | remove: ':' | remove: ';' | remove: "'" %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: '&lt;' | remove: '&gt;' | remove: '[' | remove: '']' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: '{' | remove: '}' | remove: '\' | remove: '/' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: '(' | remove: ')' | remove: '!' | remove: '-' %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: '</span><span class="s2">。</span><span class="s1">' | remove: '</span><span class="s2">，</span><span class="s1">' | remove: '</span><span class="s2">？</span><span class="s1">' | remove: '…' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: '“' | remove: '”' | remove: '</span><span class="s2">《</span><span class="s1">' | remove: '</span><span class="s2">》</span><span class="s1">' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: '</span><span class="s2">【</span><span class="s1">' | remove: '</span><span class="s2">】</span><span class="s1">' | remove: '‘' | remove: '’' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: '</span><span class="s2">：</span><span class="s1">' | remove: '</span><span class="s2">；</span><span class="s1">' | remove: '</span><span class="s2">「</span><span class="s1">' | remove: '</span><span class="s2">」</span><span class="s1">' %}</span></p>
+<p class="p1"><span class="s1">{% assign no_english_source = no_english_source | remove: '</span><span class="s2">！</span><span class="s1">' | remove: '—' | remove: '</span><span class="s2">、</span><span class="s1">' | remove: '·' %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% assign no_english_wordcount = no_english_source | size %}</span></p>
+<p class="p1"><span class="s1">{% assign english_wordcount = source | number_of_words %}</span></p>
+<p class="p1"><span class="s1">{% assign wordcount = no_english_wordcount | plus: english_wordcount %}</span></p>
+</body>
+</html>
