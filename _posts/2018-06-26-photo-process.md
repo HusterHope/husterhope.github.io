@@ -3,6 +3,7 @@ title: "聊聊集体照的清新风格修图"
 layout: post
 tags:
   - Photoshop
+  - Photos
 categories: 写随笔
 ---
 
