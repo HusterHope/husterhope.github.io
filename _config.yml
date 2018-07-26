@@ -286,8 +286,8 @@ sidebar:
 
 # Blog rolls
 links_title: Friends
-links_layout: block
-#links_layout: inline
+# links_layout: block
+links_layout: inline
 links:
   111qqz: https://111qqz.com/
   Yalv: https://yalv.me/
