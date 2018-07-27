@@ -36,10 +36,10 @@ tags:
 ![](http://ohn6qfqhe.bkt.clouddn.com/upc-3.jpg)
 
 * 将脚本`EnablePointSize.cs`添加至`Main Camera`的组件。
-* 在脚本`PointCloudManager.cs`的参数栏填写点云数据文件路径（路径从工程的`Asset`文件夹算起，利用插件自带的测试点云文件，此路径应填写为`PointCloud/xyzrgb_manuscript`），设置缩放系数（对于刚才的测试文件，这个值设置为0.25比较合适）
+* 在脚本`PointCloudManager.cs`的参数栏填写点云数据文件路径（路径从工程的`Asset`文件夹算起，利用插件自带的测试点云文件，此路径应填写为`/PointCloud/xyzrgb_manuscript`），设置缩放系数（对于刚才的测试文件，这个值设置为0.25比较合适）
 
 
-* 选择顶点着色器`VertexColor`。GameObject的组件设置如下：
+* 选择顶点着色器`VertexColor`。GameObject的组件设置如下（在2018版本的Unity中测试发现，第一次运行时可能需要勾选「Force Reload」）：
 
 ![](http://ohn6qfqhe.bkt.clouddn.com/upc-4.jpg)
 
