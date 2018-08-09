@@ -1,5 +1,5 @@
 ---
-title: "Ubuntu 14.04相关环境配置索引"
+title: "Ubuntu相关环境配置索引"
 layout: post
 categories: 解问题
 tags:
@@ -55,4 +55,8 @@ sudo nautilus
 ```
 ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'
 ```
+
+## 16.04安装CUDA
+
+> 详见[这篇文章](https://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/08/09/install-cuda-on-ubuntu/)的整理
 
