@@ -60,3 +60,11 @@ ip addr show eth0 | grep inet | awk '{ print $2; }' | sed 's/\/.*$//'
 
 > 详见[这篇文章](https://leohope.com/%E8%A7%A3%E9%97%AE%E9%A2%98/2018/08/09/install-cuda-on-ubuntu/)的整理
 
+## 实时监控GPU使用情况
+
+「1」代表1秒刷新一次，可修改。
+
+```
+watch -n 1 nvidia-smi
+```
+
