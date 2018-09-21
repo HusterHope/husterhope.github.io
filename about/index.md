@@ -14,7 +14,15 @@ HUSTer / 桌游爱好者（[不完全评测戳这里](https://leohope.com/%E7%8E
 
 ---
 
-你可以前往[标签页](https://leohope.com/tags/)或[随笔](https://leohope.com/category/#/%E5%86%99%E9%9A%8F%E7%AC%94)栏目找些感兴趣的内容阅读。
+推荐：
+
+[UC Berkeley短期访学录](https://leohope.com/tag/#/BerkeleyTour)
+
+[Unite Beijing 2018开发者大会](https://leohope.com/tag/#/Unite2018)
+
+[一些奇怪的环境配置](https://leohope.com/tag/#/Environment)
+
+你还可以前往[标签页](https://leohope.com/tags/)或[随笔](https://leohope.com/category/#/%E5%86%99%E9%9A%8F%E7%AC%94)栏目找些感兴趣的内容阅读，或者尝试搜索文章。
 
 如无特别说明，本站所有文章均采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)进行许可，转载请注明出处。
 
