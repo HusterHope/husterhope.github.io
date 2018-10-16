@@ -302,9 +302,21 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 
 **Lemma 0.6** （求阶公式）令$order(\alpha)=t$，则$ord(\alpha^i)=t/gcd(i,t)$.
 
-在证明L0.6前，先给出一个引理：$\beta ^a=1$是$ord(\beta)\mid a$成立的充分必要条件。
+在证明L0.6前，先给出一个引理L0.60：$\beta ^a=1$是$ord(\beta)\mid a$成立的充分必要条件。
 
-
+> 证明L0.60：
+>
+> 先证已知$\beta^\alpha=1$的情况。
+>
+> 设$ord(\beta)=t$，则$\beta^t=1$。
+>
+> $\because \beta^a=1, a\geqslant t$
+>
+> $\therefore a=qt+r$ 
+>
+> $\because r<t$，若$r\neq0$，则与$ord(\beta)=t$矛盾。$\therefore r=0$，即$a=qt$成立，正向得证。
+>
+>  反向易证，略。
 
 > 证明：（互相整除推相等）
 >
