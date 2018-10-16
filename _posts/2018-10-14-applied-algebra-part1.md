@@ -65,7 +65,7 @@ tags:
 
 其中$g(x)$称为Size function，为非负整数。
 
-例：证明高斯整数集合$\{a+b\sqrt{-1},a,b\in Z\}, g(a+bi)=a^2+b^2\}$是欧式环。
+例：证明高斯整数集合$\{a+b\sqrt{-1},a,b\in Z\}, g(a+bi)=a^2+b^2$是欧式环。
 
 解答：[Prove that the Gaussian Integer's ring is a Euclidean domain](https://math.stackexchange.com/questions/600424/prove-that-the-gaussian-integers-ring-is-a-euclidean-domain)
 
@@ -76,7 +76,7 @@ tags:
 
 ### 整环上的GCD
 
-公约数：对集合$B = \{ b_1,···,b_n\}$，若$a|b_i$ 对$\forall i=1,···,n$成立，则称a为集合B的公约数。
+公约数：对集合$B = \{ b_1,···,b_n\}$，若$a\mid b_i$ 对$\forall i=1,···,n$成立，则称a为集合B的公约数。
 
 最大公约数：设d是集合B的公约数，若满足其他所有公约数都**整除**d，则d是集合B上的最大公约数，记作：$d = gcd\{b_1,···,b_n\}$.
 
@@ -96,17 +96,17 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 
 > **证明：（构造法）**
 >
-> 构造 $S=\{\sum_{k=1}^{n}\mu_kb_k|\mu_k \in D\}$,
+> 构造 $S=\{\sum_{k=1}^{n}\mu_kb_k\mid \mu_k \in D\}$,
 >
-> 取 $d:g(d) \triangleq min\{g(x)|x \in S\}.$ （因为g有下界，所以g(d)一定存在）
+> 取 $d:g(d) \triangleq min\{g(x)\mid x \in S\}.$ （因为g有下界，所以g(d)一定存在）
 >
 > 声明：d就是$gcd(b_1,···,b_n)$ 
 >
-> 即证：(1) $\forall b_i, d \mid b_i$；(2)$\forall e$（e为$b_1,···,b_n$的公因子，有$e|d$ .
+> 即证：(1) $\forall b_i, d \mid b_i$；(2)$\forall e$（e为$b_1,···,b_n$的公因子，有$e\mid d$ .
 >
 > 先证(2)：对 $\forall e$，有$e \mid b_i, i=1,2,···,n$，则$b_i = q_i e$ .
 >
-> $\because d\in S$，$\therefore d =  \sum_{k=1}^{n} \mu_k b_k=e \sum_{k=1}^{n} \mu_k q_k$，则$e|d$。
+> $\because d\in S$，$\therefore d =  \sum_{k=1}^{n} \mu_k b_k=e \sum_{k=1}^{n} \mu_k q_k$，则$e\mid d$。
 >
 > 再证(1)：$d =  \sum_{k=1}^{n} \mu_k b_k$ ，由欧式环性质有
 >
@@ -276,14 +276,42 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 
 * Note：判定p是否可约，很大程度上取决于域的范围。例如$p=x^2-2$在有理数域上为不可约多项式，而在实数域上即为可约多项式。
 
-**Theorem 0.8**（解的数目）
+**Theorem 0.8**（解的数目）对$\forall p(x)\in F[x]$，F为一域，若$deg(p(x))=m$，则$p(x)=0$至多有m个解（在F上的解）
 
-> 证明：数学归纳法
+> 证明：（数学归纳法）
+>
+> 当$m=1$时，记$p(x)=ax+b, a,b\in F$，则有解$x=-a^{-1}b$，满足结论；
+>
+> 设$m=t$时结论成立($t\geqslant1$)
+>
+> 则$m=t+1$时，若$p(x)=0$无解，满足结论。
+>
+> 否则，设$\alpha$为该方程的一个解($\alpha \in F$)
+>
+> $\because p(x),x-\alpha \in F(x)$ 
+>
+> $\therefore p(x)=q(x)(x-\alpha)+r(x)$，其中$deg(r(x))<1$或$r(x)=0$。
+>
+> 将$x=\alpha$代入上式，得$p(\alpha)=q(\alpha)(\alpha-\alpha)+r$，即$r=0$。
+>
+> 对$\forall \beta \neq \alpha$，若$\beta$为$p(x)=0$的解，则$\beta$一定为$q(x)=0$的解。
+>
+> $\because q(x)=0$至多有t个不同的解
+>
+> $\therefore p(x)=0$至多有$t+1$个解。 $\square$
 
-**Lemma 0.6** （求阶公式）
+**Lemma 0.6** （求阶公式）令$order(\alpha)=t$，则$ord(\alpha^i)=t/gcd(i,t)$.
 
-> 证明：互相整除推相等
+在证明L0.6前，先给出一个引理：$\beta ^a=1$是$ord(\beta)\mid a$成立的充分必要条件。
+
+
+
+> 证明：（互相整除推相等）
+>
+>
 
 **Theorem 0.9**（阶为t的元素数目）
 
-（T0.8/L0.6/T0.9待整理，LaTex虽好看，写起来真的慢..）
+（L0.6/T0.9待整理，LaTex虽好看，写起来真的慢..）
+
+ps.网页中「\exist」，这其实就是那个和「任意」对应的「存在」符号..不知道为什么Web端的LaTex加载不出来..
