@@ -30,11 +30,11 @@ categories: 做笔记
 
 有关这些概念，在 [Polly Mitchell-Guthrie](http://blogs.sas.com/content/author/pollymitchellguthrie/) 的博客里给出了一张图可以参考：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/relation.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/relation.png)
 
 即：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/relation_ch.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/relation_ch.png)
 
 ------
 

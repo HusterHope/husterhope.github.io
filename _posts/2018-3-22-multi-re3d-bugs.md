@@ -92,11 +92,11 @@ LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/path/to/bundler/bin
 
 Bundler首先提取了每个图像的参数并记录下来。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/sfmlbug-1.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/sfmlbug-1.jpeg)
 
 出现了问题：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/sfmlbug-2.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/sfmlbug-2.jpeg)
 
 特征提取器SIFT的可执行文件不能正常运行..原来是只支持Linux和Win..
 
@@ -108,7 +108,7 @@ Bundler首先提取了每个图像的参数并记录下来。
 
 然后作者在回复里还给出了下面这个系统：TheiaSfM，可以不使用SIFT。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/sfmlbug-3.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/sfmlbug-3.jpeg)
 
 刚好之前也调研过，那就试一试！
 
@@ -140,7 +140,7 @@ Bundler首先提取了每个图像的参数并记录下来。
 
 然后在Theia的讨论区找到了问题，也就是Mac OS X下，用Homebrew自动安装的OiiO是最新版，不太能用。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/sfmlbug-4.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/sfmlbug-4.jpeg)
 
 那退个旧版吧..查查怎么用homebrew把这个库退到旧版：
 
@@ -184,7 +184,7 @@ https://stackoverflow.com/questions/3987683/homebrew-install-specific-version-of
 
 `make test`，这是作者事先写好的单元测试脚本，用来验证模块的功能是否正常，共101个单元测试，我执行之后报了8个错。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/sfmlbug-5.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/sfmlbug-5.jpeg)
 
 说多不多，说少不少，也不知道这些具体有啥影响，作者在文档里很良心地留了一句话：
 
@@ -194,7 +194,7 @@ https://stackoverflow.com/questions/3987683/homebrew-install-specific-version-of
 
 于是来到论坛找作者，用test作为搜索关键字。发现了另一个跟我报错差不多的人（甚至他还多了几个错）：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/sfmlbug-6.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/sfmlbug-6.jpeg)
 
 这是去年11月底的帖子，当时作者给的引导是执行一个脚本看看具体报什么错：
 
@@ -206,7 +206,7 @@ https://stackoverflow.com/questions/3987683/homebrew-install-specific-version-of
 
 等了一晚上后得到作者回复：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/sfmlbug-7.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/sfmlbug-7.jpeg)
 
 > 你确定同步了Master分支？我也不知道为什么这些简单的单元测试会报出这么奇怪的段错误。如果继续安装下去，整个流程肯定是跑不通的。
 

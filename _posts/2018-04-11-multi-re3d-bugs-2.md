@@ -38,11 +38,11 @@ tags:
 
 正常渲染（顶点数量：29000左右）：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-1.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-1.jpg)
 
 减少部分视点后渲染（顶点数量：11000左右）：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-2.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-2.jpg)
 
 因此考虑使用Colmap作为重建工具，更清晰地显示相机位置，并重建稠密点云。
 
@@ -107,19 +107,19 @@ sudo make install
 
 后来把`5.2.1`版本的Qmake删了，回溯找调用，原来是Cmake中的QtCore一直在找5.2.1版本的路径。就是下面这个文件和它的关联文件内容：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-3.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-3.jpg)
 
 但局部修改不一定有效，备份后试了一下，把整个Cmake环境搞崩了，放弃并恢复。
 
 然后..想了一种更直接的方法，为什么不直接修改Colmap makefile里的Qt版本要求呢？
 
-![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-4.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-4.jpg)
 
 然后我就把最低要求为5.4改成了上图中的5.2。。`cmake`终于不报错了。
 
 本来想着这样的操作可以顺风顺水一路高歌，但`make`进度到86%左右时，还是出现了问题。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-5.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-5.jpg)
 
 胜利的曙光再次熄灭。
 
@@ -129,7 +129,7 @@ sudo make install
 
 倒是看到了一个项目里，用户和项目开发者就这个问题在issue里互怼：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-6.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-6.jpg)
 
 > 用户：这个Bug怎么办啊！
 >
@@ -143,7 +143,7 @@ sudo make install
 
 以及..也有不少吐槽Cmake使用体验很差的（答案和评论区都有）：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-7.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-7.jpg)
 
 > hate this piece of garbage.
 

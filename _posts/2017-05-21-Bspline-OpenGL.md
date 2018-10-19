@@ -58,7 +58,7 @@ N_{i,p}(u) = \frac{u-u_i}{u_{i+p}-ui}N_{i,p-1}(u) + \frac{u_{i+p+1}-u}{u_{i+p+1}
 $$
 这个递推的计算过程如下：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/bs-2.jpg)
+![img](https://github.com/HusterHope/blogimage/raw/master/bs-2.jpg)
 
 说明：节点个数为$m+1$；控制点个数为$n+1$，曲线的幂次为$p$。
 
@@ -68,7 +68,7 @@ $$
 
 通过一定的分析我们知道，在计算$N_{i,p}(u)$时，需要计算$N_{i,p-1}$和$N_{i+1,p-1}(u)$，前者的非零区间为$[u_i, u_{i+p}]$，后者为$[u_{i+1}, u_{i+p+1}]$。下面这张图很好地给出了它们的关系：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/bs-4.jpg)
+![img](https://github.com/HusterHope/blogimage/raw/master/bs-4.jpg)
 
 所以，$N_{i,p}(u)$是$N_{i,p-1}(u)$两项的线性组合。
 
@@ -174,7 +174,7 @@ void calN(float t)
 
 放一张画出来的B样条曲线证明这种方法的可行性（幂次为3，控制点数为7）：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/bs-3.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/bs-3.png)
 
 ------
 

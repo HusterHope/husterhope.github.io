@@ -72,15 +72,15 @@ for(int i = 0; i<conns.Length;i++)
 
 将项目发布，打开服务器，再打开多个exe。
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/2-1.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/2-1.png)
 
 聊天效果：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/2-2.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/2-2.png)
 
 服务器：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/2-3.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/2-3.png)
 
 参考资料：《Unity 3D 网络游戏实战》罗培羽 著
 

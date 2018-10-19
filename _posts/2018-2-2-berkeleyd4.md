@@ -14,11 +14,11 @@ tags:
 
 从伯克利前往硅谷还是需要一段时间的，考虑到早高峰的堵车，我们8点就集合出发了。阳光依旧灿烂，气温渐渐爬升，未来几天估计也会如此。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-1.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-1.jpeg)
 
 一个半小时的车程后，Intel公司的大楼出现在视野里。不同于中国的高科技园区，美国这里大楼很少，城市里空地和停车场的面积占了很大比重。因此Intel这种在国内很常见的高楼，在这边就像是矗立于荒野上的一座小山头了。走到楼下才发现，根本没有合适的机位能拍下整幢大楼..最后只好利用玻璃外墙的反射
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-2.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-2.jpeg)
 
 简单地参观了办公区，@Jason Zhu为我们简短地讲解了硅谷的发展和Intel公司的情况，记录几个感兴趣的点：
 
@@ -46,7 +46,7 @@ tags:
 
 * 硅谷未来发展趋势
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-3.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-3.jpeg)
 
 QA环节，一位同学问了教育相关的科技创业问题，Jason从内容和平台两个层面做了简单解答，即：教育相关的应用应该侧重于这两个层面中的一个，如果有资深教育专家的支持，可以主攻内容方向，没有条件就重在建立平台。
 
@@ -58,7 +58,7 @@ QA环节，一位同学问了教育相关的科技创业问题，Jason从内容�
 
 一次运算的时间通常以纳秒计算，光传播1纳秒会经过11.8英寸。用手在下面这两块传感器中间挥动，电子显示屏会记录手经过两个屏所用的时间（纳秒为单位）
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-4.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-4.jpeg)
 
 结论：比手速快100万倍+
 
@@ -68,7 +68,7 @@ QA环节，一位同学问了教育相关的科技创业问题，Jason从内容�
 
 展柜提供不同尺寸的小海绵球和管道，前者代表数据包(Package)，后者代表带宽(Bandwidth)。当将大球放入小管道时就会发生拥塞。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-5.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-5.jpeg)
 
 类似的小展柜都很适合用于给孩子科普（学计算机要从娃娃抓起
 
@@ -78,9 +78,9 @@ QA环节，一位同学问了教育相关的科技创业问题，Jason从内容�
 
 午饭地点正好离苹果公司正在建设的国际总部不远，饭后就去转了转。然而被施工人员拦下没进去（此时化身成一只海鸥就能随便进了）
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-6.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-6.jpeg)
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-7.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-7.jpeg)
 
 重头戏都要放在后面，今天的日志也不例外。欢迎来到计算机历史博物馆！
 
@@ -90,49 +90,49 @@ QA环节，一位同学问了教育相关的科技创业问题，Jason从内容�
 
 * 历史时刻
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-8.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-8.jpeg)
 
 埃尼阿克（复制品）
 
 > 世界上第一台通用计算机。它能够重新编程，解决各种计算问题。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-9.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-9.jpeg)
 
 防抱死系统(ABS)，背后是最初投入使用的奔驰轿车。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-10.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-10.jpeg)
 
 第一代YAMAHA电子琴（视频讲解版本）
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-11.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-11.jpeg)
 
 文字冒险游戏（Galgame鼻祖），是可以直接体验的复制版
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-12.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-12.jpeg)
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-13.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-13.jpeg)
 
 街机：《Pong》，展馆内也做出了可以直接体验的机器
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-14.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-14.jpeg)
 
 第一首Mp3：Tom's diner（还挺好听的，但是只有Demo
 
 * 开创性工作
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-15.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-15.jpeg)
 
 计算机自主绘画机，样子有点像现在的3D打印机。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-16.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-16.jpeg)
 
 最早的幼教机（步步高点读机快醒醒，人家1978年就有产品了
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-17.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-17.jpeg)
 
 皮克斯的图形工作站
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-18.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-18.jpeg)
 
 互联网的前身：ARPANET及其发展史
 
@@ -152,15 +152,15 @@ QA环节，一位同学问了教育相关的科技创业问题，Jason从内容�
 
 看到了一个飙摩托的小哥（手机太渣拍不出效果
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-19.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-19.jpeg)
 
 到超市搞了瓶加州干红，淘宝价240+，超市打折只要8刀（虽然不太会品酒但觉得挺划算
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-20.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-20.jpeg)
 
 最后送给广大程序猿们一句话：
 
 制作软件，改变世界！
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day4-21.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day4-21.jpeg)
 

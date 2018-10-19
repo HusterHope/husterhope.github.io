@@ -25,7 +25,7 @@ tags:
 
 2009年，S. Agarwal, Y. Furukawa和N. Snavely在ICCV上发表了题为「Building rome in a day.」的论文（[10.1109/ICCV.2009.5459148](https://doi.org/10.1109/ICCV.2009.5459148)），利用15万张来自网络的图片进行三维重建工作，真实地还原出了一个数字化版本的罗马城。时隔多年，计算机的计算力和网络数据量都发生了显著变化，甚至有使用上百万张图片进行三维重建的例子出现（[10.1109/CVPR.2015.7298949](https://doi.org/10.1109/CVPR.2015.7298949)），但这并不影响S. Agarwal等人工作的经典地位（按照Google的统计，该论文已被引用上千次）。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/IBM-BR-1.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/IBM-BR-1.jpg)
 
 通篇读下来后，目前还有不少细节没能真正理解，因此带着记笔记的心态梳理一下整篇论文的脉络，加深对大型三维重建系统的理解。
 
@@ -52,7 +52,7 @@ tags:
 
 整个系统运行在若干个计算节点上，其中一个节点作为主节点，主节点负责任务调度和决策。整个管线的设计如下图所示：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/IBM-BR-2.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/IBM-BR-2.jpg)
 
 下面介绍每一步的详细内容。
 
@@ -121,7 +121,7 @@ ps.这一部分感觉没有理解到核心，放个原文
 
 匹配图的生成到骨架集算法的过程如下图所示：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/IBM-BR-3.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/IBM-BR-3.jpg)
 
 下文详述。
 
@@ -176,11 +176,11 @@ ps.这一部分感觉没有理解到核心，放个原文
 
 匹配和重建数据：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/IBM-BR-4.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/IBM-BR-4.jpg)
 
 部分重建结果（更加完整的重建可访问[7]）：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/IBM-BR-5.png)
+![](https://github.com/HusterHope/blogimage/raw/master/IBM-BR-5.png)
 
 ## 讨论
 

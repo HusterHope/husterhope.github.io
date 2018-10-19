@@ -17,9 +17,9 @@ categories: 写随笔
 
 原片拍摄出来的效果还是可以的，有表情、有造型、构图中规中矩。但精修后的图就真心没法看了：整体偏灰的色调，过曝的人脸，绿里透着蓝的树，天空渐变色拉到了国旗上..
 
-![](http://ohn6qfqhe.bkt.clouddn.com/cameraps-1.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/cameraps-1.jpg)
 
-![](http://ohn6qfqhe.bkt.clouddn.com/cameraps-2.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/cameraps-2.jpg)
 
 按班群的说法，班里随便一个会PS的，甚至会用美图秀秀的，都能比他们做的漂亮。
 
@@ -29,7 +29,7 @@ categories: 写随笔
 
 在谈修图过程之前先上个对比图：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/cameraps-3.png)
+![](https://github.com/HusterHope/blogimage/raw/master/cameraps-3.png)
 
 说说原片的主要问题：国旗部分的亮度明显过高（泛白），饱和度和对比度不足（偏灰），需要仔细调整。因为拍摄当天是阴天，所以人像会有些偏暗，画面整体有点「脏」，此外，大面积纯白的天空会让画面显得很单调。
 
@@ -49,7 +49,7 @@ categories: 写随笔
 
 从网上找个分辨率高一些的蓝天白云素材作为背景。比如：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/cameraps-4.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/cameraps-4.jpg)
 
 （画面中还有个小飞机）
 
@@ -57,7 +57,7 @@ categories: 写随笔
 
 但是直接加上背景是不行的，会明显感觉到：PS痕迹太明显了！（下图）
 
-![](http://ohn6qfqhe.bkt.clouddn.com/cameraps-5.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/cameraps-5.jpg)
 
 个人认为造成这种现象的原因是：
 
@@ -71,7 +71,7 @@ categories: 写随笔
 
 效果：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/cameraps-6.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/cameraps-6.jpg)
 
 这样违和感就下降了很多。
 
@@ -83,7 +83,7 @@ categories: 写随笔
 
 成片套图：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/cameraps-7.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/cameraps-7.jpg)
 
 ### 其他
 
@@ -103,4 +103,4 @@ categories: 写随笔
 
 最后，数媒1401毕业快乐！
 
-![](http://ohn6qfqhe.bkt.clouddn.com/cameraps-8.png)
+![](https://github.com/HusterHope/blogimage/raw/master/cameraps-8.png)

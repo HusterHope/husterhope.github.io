@@ -126,7 +126,7 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 
 > 证明：逐层递推
 
-![](http://ohn6qfqhe.bkt.clouddn.com/AppliedA1-1)
+![](https://github.com/HusterHope/blogimage/raw/master/AppliedA1-1)
 
 欧几里得扩展算法（Euclid’s Extended Algorithm）：用于寻找线性组合的系数。
 
@@ -241,7 +241,7 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 
 设$D=R[x]$为拥有实系数的多项式集合，$p(x)=x^2+1$为不可约多项式（即在实数域下无法进行因式分解），则$p(x)$是$R[x]$中的素元。且$R[x]\ mod\ p(x)=\{a+bx,a,b\in R\}$形成域。该域的加法和乘法分别定义为：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/AppliedA1-2)
+![](https://github.com/HusterHope/blogimage/raw/master/AppliedA1-2)
 
 > Tip：$mod\ x^2+1$可以理解为$x^2+1=0$，即$x^2=-1$。
 >
@@ -249,7 +249,7 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 
 * $F_p[x]$下的多项式除法规则
 
-![](http://ohn6qfqhe.bkt.clouddn.com/AppliedA1-3)
+![](https://github.com/HusterHope/blogimage/raw/master/AppliedA1-3)
 
 > Tip：与常规多项式除法类似，只是注意系数相乘后需要模除p，负值可以加p后得到正值（回顾等价类的概念）
 

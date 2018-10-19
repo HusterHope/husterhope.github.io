@@ -21,11 +21,11 @@ David C. Lee, Martial Hebert, Takeo Kanade, “[Geometric Reasoning for Single I
 
 首先看一张图：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-1.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-1.png)
 
 我们很容易从上图中观察出房间的结构，但这对于计算机而言则充满挑战。一方面，因为遮挡物的存在，从图像中中提取出所有体现房间结构的线段是一件不太可能完成的事情；而另一方面，各种干扰线条也会影响结构的判断，设想下图场景：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-2.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-2.png)
 
 通过观察后，我们很快能够理解从左到右的三幅图像都反映了一个立方体——最左侧没有任何遮挡；中间的图存在遮挡——部分线条不可见；最右侧的一张图既存在遮挡，又存在混乱的干扰线。我们能够将最右侧图像也认定为立方体结构离不开三方面的影响：（1）我们具备几何推理能力并且优先考虑物理上可行的解释；（2）我们具备全局观察的能力；（3）我们对于世界的结构具有一定的先验知识，这个例子里是物体结构的认知。
 
@@ -64,11 +64,11 @@ Nedovic等人的一项有趣的观察表明，一个典型场景可以划分为�
 
 下图展示这三种结构。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-3.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-3.png)
 
 此外，可根据场景中**两个灭点的垂直线**划分相机位置，每个位置会存在角落的四种布局情况，如下图所示
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-4.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-4.png)
 
 根据这些约束条件来进行几何推理将更为有效。
 
@@ -98,11 +98,11 @@ Nedovic等人的一项有趣的观察表明，一个典型场景可以划分为�
 
 **线段的连接构成了角落，角落的组合就形成了结构模型。**一个角落通常包含5条线段，但并不是所有的线段都可见，利用前文提到的对称性，可以在一定程度上重构被遮挡的角落。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-5.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-5.png)
 
 生成结构假设的过程如下图所示，首先建立场景中没有角落的假设，即只有一面墙的情况。接下来寻找能和现有线段连接的线段，并加入模型产生一个新的角落。重复这样的过程，会逐渐产生若干角落和不同结构假设。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-6.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-6.png)
 
 ### 验证假设
 
@@ -112,23 +112,23 @@ Nedovic等人的一项有趣的观察表明，一个典型场景可以划分为�
 
 两条不同方向的线段能够明确指出它们附近的像素方向，即附近的像素与这两条线段的方向均垂直。例如，我们容易理解下图中区域(1)像是水平面，因为旁边存在方向不同的绿线和蓝线；区域(2)像是墙面，因为旁边的红线和绿线。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-7.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-7.png)
 
 （方向图的计算：论文中唯一相对数学的部分，理解起来很容易，理清楚每个“方向”指的是什么，加上一些并不复杂的几何运算和集合运算，就能够得到。原文写的很清楚，这里就不多描述了，简单理解可以参考上一段的含义，下图是计算得到的方向图）
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-8.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-8.png)
 
 ### 转化为3D建筑模型
 
 有了上面的过程，就能够初步生成3D室内场景了，原理虽简单，效果很惊艳。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-9.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-9.png)
 
 ## 实验结果
 
 选取54张图片，首先人为标记每个像素点的方向，之后交给系统作为测试。对比结果发现，平均81%的像素被正确分类，76%图像中的像素错误率在30%以下，44%图像中的像素错误率在10%以下。从质量上讲，大约70%的图像被还原为合理的3D模型。即使存在物体遮挡，也能还原出令人满意的结果。部分重建后的场景如下图所示
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-10.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-10.png)
 
 ---
 
@@ -138,11 +138,11 @@ Nedovic等人的一项有趣的观察表明，一个典型场景可以划分为�
 
 图像模型方面的假设有些苛刻和单一，最直接的就是：室内照片不一定都会拍到天花板和地板，测试结果也表明该系统目前对于这种图像容易重建失败。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-11.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-11.png)
 
 该团队在后期希望实现图像中的物体检测，从而将物体从图像中分离（或单独建模），更好地还原大范围室内场景。下图为他们当时做的人和门的检测
 
-![](http://ohn6qfqhe.bkt.clouddn.com/GRSISR-12.png)
+![](https://github.com/HusterHope/blogimage/raw/master/GRSISR-12.png)
 
 以及，不要忘了这是2009年的CVPR...
 

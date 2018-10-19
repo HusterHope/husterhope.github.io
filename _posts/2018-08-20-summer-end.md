@@ -14,7 +14,7 @@ categories: 写随笔
 
 > 莫文蔚 - 盛夏的果实
 
-<p>http://ohn6qfqhe.bkt.clouddn.com/%E8%8E%AB%E6%96%87%E8%94%9A-%E7%9B%9B%E5%A4%8F%E7%9A%84%E6%9E%9C%E5%AE%9E.mp3</p>
+<p>https://github.com/HusterHope/blogimage/raw/master/%E8%8E%AB%E6%96%87%E8%94%9A-%E7%9B%9B%E5%A4%8F%E7%9A%84%E6%9E%9C%E5%AE%9E.mp3</p>
 
 ## 科研：一个人的不安
 

@@ -143,7 +143,7 @@ p = Runtime.getRuntime().exec("/home/path/to/bundler/AllRec.sh");
 
 下面是用终端脚本运行重建系统后的效果，共使用9张640*480的照片，内容为一个外星人小玩偶。点云数量为7626个。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-8.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-8.jpg)
 
 ---
 
@@ -186,4 +186,4 @@ String encodedString = Base64.encodeToString(bytes, Base64.DEFAULT);
 
 此外，数据在局域网传输过程中明显存在部分丢失，导致深度估计信息有误（下右图），但点云数目上却相差无几，这可能也是后期需要改进的地方。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/3drecon-bug-9.png)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-9.png)

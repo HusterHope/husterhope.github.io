@@ -121,11 +121,11 @@ mp3_embed();
 
 第二步：将上述文件放入Jekyll项目的"_include"文件夹内。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/music-player.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/music-player.jpg)
 
 第三步：找到上述文件夹内的_layout.html文件，修改底部内容为：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/music-player-2.png)
+![](https://github.com/HusterHope/blogimage/raw/master/music-player-2.png)
 
 ### 调用
 
@@ -133,7 +133,7 @@ mp3_embed();
 
 然后，在Markdown中直接使用`<p>音乐外链url</p>`这样的格式，即可获得如下效果的播放器（以下音乐为「阿保剛-Der Mond Das Meer」）
 
-<p>http://ohn6qfqhe.bkt.clouddn.com/%E9%98%BF%E4%BF%9D%E5%89%9B-Der%20Mond%20Das%20Meer.mp3</p>
+<p>https://github.com/HusterHope/blogimage/raw/master/%E9%98%BF%E4%BF%9D%E5%89%9B-Der%20Mond%20Das%20Meer.mp3</p>
 
 Over.
 

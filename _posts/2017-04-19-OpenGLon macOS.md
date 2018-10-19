@@ -34,11 +34,11 @@ Mac系统用起来爽，但是配置什么东西都需要折腾，关键能参�
 
 过程：新建命令行(Command Line Tool)工程，在工程设置里引入两个库：OpenGL.frameworks和GLUT.frameworks
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/gl1-1.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/gl1-1.png)
 
 之后，修改search path，把Always Search User Paths改为Yes:
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/gl1-6.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/gl1-6.png)
 
 没错，似乎这样环境就ok了（不用折腾什么glfw之类，不过如果有需要的话，上面那个链接的文章值得参考），接着往下看，坑在后面。
 
@@ -169,7 +169,7 @@ int main(int argc, char ** argv)
 
 之后，将oglpg-8th-edition/lib/LoadShaders.cpp，和oglpg-8th-edition/include/LoadShaders.h拖入工程。为了防止对源文件的改动，我们勾选「Copy items if needed」
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/gl1-3.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/gl1-3.png)
 
 现在运行程序还是会报很多错的，下面开始修改代码。
 
@@ -181,7 +181,7 @@ int main(int argc, char ** argv)
 
 既然开头就是要引入vgl.h，那不妨先看看这个头文件里有些啥：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/gl1-2.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/gl1-2.png)
 
 一堆条件编译，以及有关freeglut/glew的声明。然而，mac用不上glew（至少这个例子用不上），我们也不用去使用freeglut..所以我们只需要把头文件里最有用的bufferoffset的定义放到main函数中，并引入glut库。
 
@@ -710,11 +710,11 @@ LoadShaders( ShaderInfo* shaders )
 
 工程目录：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/gl1-4.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/gl1-4.png)
 
 不出意外地，博主都写到这里了，怎么会不放运行结果呢：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/gl1-5.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/gl1-5.png)
 
 完毕！
 

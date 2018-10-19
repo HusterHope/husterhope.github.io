@@ -98,7 +98,7 @@ sudo apt-get install linux-headers-$(uname -r)
 
 安装包分为RPM/Deb和runfile包两种。Runfile支持更多种分发系统，但不会更新本地包管理系统，RPM/Deb只支持特定版本系统，但会与本地包管理系统留好接口，因此文档中更推荐使用RPM/Deb安装包。最后选择如下图所示：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/CUDAinstall-1.png)
+![](https://github.com/HusterHope/blogimage/raw/master/CUDAinstall-1.png)
 
 * MD5码校验
 
@@ -166,11 +166,11 @@ sudo make
 
 deviceQuery:
 
-![](http://ohn6qfqhe.bkt.clouddn.com/CUDAinstall-2.png)
+![](https://github.com/HusterHope/blogimage/raw/master/CUDAinstall-2.png)
 
 bandwidthTest:
 
-![](http://ohn6qfqhe.bkt.clouddn.com/CUDAinstall-3.png)
+![](https://github.com/HusterHope/blogimage/raw/master/CUDAinstall-3.png)
 
 大功告成！
 

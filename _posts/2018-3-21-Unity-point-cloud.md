@@ -10,11 +10,11 @@ tags:
 
 点云是一些坐标系统中的一组数据点。在三维坐标系中，这些点通常由X，Y和Z坐标定义，并且通常用于表示物体的外表面。例如一个圆环的点云（摘自维基百科）：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/upc-1.gif)
+![](https://github.com/HusterHope/blogimage/raw/master/upc-1.gif)
 
 当然，这是由计算机渲染之后的效果，一般情况下数据会以下面的方式存储：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/upc-2.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/upc-2.jpg)
 
 很明显人类比较喜欢第一种呈现方式，因为直观。如果找到一种方法让存储的纯数字列表转化为空间可见的结构，就能解决点云预览的问题。
 
@@ -33,7 +33,7 @@ tags:
 
 * 创建一个空对象，将脚本`PointCloudManager.cs`添加至此对象的组件。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/upc-3.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/upc-3.jpg)
 
 * 将脚本`EnablePointSize.cs`添加至`Main Camera`的组件。
 * 在脚本`PointCloudManager.cs`的参数栏填写点云数据文件路径（路径从工程的`Asset`文件夹算起，利用插件自带的测试点云文件，此路径应填写为`/PointCloud/xyzrgb_manuscript`），设置缩放系数（对于刚才的测试文件，这个值设置为0.25比较合适）
@@ -41,7 +41,7 @@ tags:
 
 * 选择顶点着色器`VertexColor`。GameObject的组件设置如下（在2018版本的Unity中测试发现，第一次运行时可能需要勾选「Force Reload」）：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/upc-4.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/upc-4.jpg)
 
 * 在Script文件夹内创建一个新脚本`CameraController.cs`，用来操控`Main Camera`的视角，便于浏览整个点云。一种简单的操控脚本如下（可以参考Unity官网文档获取更多操作方式）：
 
@@ -70,7 +70,7 @@ public class CameraController : MonoBehaviour {
 
 将上面这个脚本也添加至`Main Camera`的组件。测试效果：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/upc-5.png)
+![](https://github.com/HusterHope/blogimage/raw/master/upc-5.png)
 
 ---
 
@@ -94,7 +94,7 @@ void loadPointCloud(){
 
 使用[MeshConv](http://www.patrickmin.com/meshconv/)脚本，将ply格式转换为off格式，再次载入插件，能够正常运行。下面是`bunny`点云的运行效果。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/upc-6.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/upc-6.jpg)
 
 大功告成。
 

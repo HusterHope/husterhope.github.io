@@ -15,7 +15,7 @@ tags:
 
 赶在宾馆早餐服务结束之前完成了进食（自助早餐挺丰盛的，不过又忘了拍照orz），收拾和整理后上车出发，不久便抵达拥有巨大玻璃门的游客中心。上午的行程由伯克利学生导游带队游览校园。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-1.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-1.jpeg)
 
 图1 游客中心外随手拍
 
@@ -33,7 +33,7 @@ tags:
 
 听导游讲解不像听课时那般专注，加上游览校园时适宜的温度和阳光让心情越发轻松，后果就是漏掉了不少讲解的细节（大脑翻译系统：赶快给我放个假吧），没记住太多东西。但拍拍拍、逛逛逛，就当是耳濡目染也接收了些信息吧。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-2.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-2.jpeg)
 
 图2 Jamie正为团队作讲解
 
@@ -56,7 +56,7 @@ tags:
 
 所以觉得略奇怪，犹太人占比这么少的情况下为什么会叫摩洛哥的记忆呢..（拿了手册，但比较懒不想一行行看原因了
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-3.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-3.jpeg)
 
 图3 犹太人制作的海报
 
@@ -64,7 +64,7 @@ tags:
 
 以前仅了解过二战期间希特勒屠杀犹太人的故事，这个展馆从更多层面展示了他们的生活细节。服装、海报、护身符和其他文化。展柜上一个个专有名词查起来很辛苦，同行的同学看了不久也一个个走的差不多了。耐着性子粗略地浏览了馆内感兴趣的内容后，也离开了博物馆，准备前往下一站听研讨会。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-4.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-4.jpeg)
 
 图4 批判希特勒的漫画
 
@@ -74,13 +74,13 @@ tags:
 
 研讨会的主题是「Touch-Interaction with 2D Information Spaces」，主讲人是[Andries van Dam](http://cs.brown.edu/~avd/)。一开始没注意这位大佬的背景，后来发现居然是在图形学教科书里出现过的人，瞬间感慨万千。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-5.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-5.jpeg)
 
 图5 三年前学《计算机图形学》时某页课件
 
 简单的说就是，这位长者出生于1938年，是全球计算机图形学界顶顶顶级会议的发起人，著作若干、论文若干、研究项目若干，兴趣爱好还包括骑山地车越野，个人主页上还有2016年骑车登山的照片（78岁能骑车，80岁还活跃在科研一线，好吧我除了膜没啥好说的了。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-6.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-6.png)
 
 图6 Andy -- Switzerland -- August 2016
 
@@ -90,7 +90,7 @@ tags:
 
 之后他帮参会者们回顾了计算机图形学发展过程的几次浪潮，当然大佬们通常很谦虚，不会过多突出自己的工作。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-7.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-7.png)
 
 图7 图形学的3次浪潮
 
@@ -108,7 +108,7 @@ tags:
 
 先用自然语言简单说说这个系统：界面是一块大白板，左侧有用户导入的分层后的数据库。用户可以将任意一个表拖放至白板上的任意位置，并实时查看数据，多个表之间可以建立关联关系，系统输出这一关系的对应图表。用户还可以选择感兴趣的数据、归一化、合并图表…我仿佛看到了这些用几秒内展示出来的每个功能背后，有着无数代码和模型。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-8.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-8.png)
 
 图8 Viztom项目雏形
 
@@ -116,7 +116,7 @@ tags:
 
 （这些应用未来很有可能取代数据分析师，并且对科研工作者而言简直是福音）
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-9.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-9.png)
 
 图9 Dash 工作界面
 
@@ -126,7 +126,7 @@ Q&A的过程很快，唯一记得一个问题就是：如何从不可回溯的�
 
 问题写了一大堆，回答可能会让人很失望，Dam教授和他的同事听到问题后说，他们考虑过类似的问题，但目前这个版本的系统不具备相关功能，并表示：”Certainly challange”。（其实等于没说，但问题确实是个好问题
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-10.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-10.jpeg)
 
 图10 长者在作演讲
 
@@ -134,7 +134,7 @@ Q&A的过程很快，唯一记得一个问题就是：如何从不可回溯的�
 
 回程的路上，我迟迟停留在研讨会的震撼中无法自拔，伯克利的钟楼被下午五点半的夕阳染上一层淡淡的粉色。可能今天在研讨会上遇见的大佬比整个大学阶段遇到的都要多吧...
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day3-11.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day3-11.jpeg)
 
 图11 粉色钟楼
 

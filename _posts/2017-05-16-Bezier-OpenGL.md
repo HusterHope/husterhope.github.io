@@ -18,7 +18,7 @@ categories: 解问题
 
 Bezier曲线的定义式：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/bezier-1.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/bezier-1.png)
 
 式中Vi是用户通过鼠标点击产生控制点，u从0递增至1，递增的速度即为精度。括号中竖写的n和i即排列组合概念中的组合数。
 
@@ -586,13 +586,13 @@ int main(int argc, char **argv)
 
 运行结果：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/bezier-2.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/bezier-2.png)
 
 右键编辑操作：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/bezier-3.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/bezier-3.png)
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/bezier-4.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/bezier-4.png)
 
 其它：键盘上下方向键调节绘制精度，「R」删除一个点，「C」清屏，「Q」退出。
 

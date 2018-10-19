@@ -70,7 +70,7 @@ sudo sslocal -c '/home/username/Desktop/ss.json'
 
 下载`SwitchySharp.crx`文件（百度能找到，网盘不让上传，避免水表就不放链接了），拖入Chrome浏览器中的扩展程序（`chrome://extensions/`）里，作如下配置：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/ss-linux-1.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/ss-linux-1.jpg)
 
 然后在浏览器里启用ss代理选项，即可正常使用。
 

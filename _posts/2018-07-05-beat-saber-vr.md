@@ -28,7 +28,7 @@ tags:
 
 但是「Beat Saber」（中文译名：节奏光剑）完美解决了以上所有问题。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/beatsaber1-1.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/beatsaber1-1.jpg)
 
 ## 玩法
 
@@ -40,13 +40,13 @@ tags:
 
 「Beat Saber」将传统音乐游戏中的「点击」操作改为更适合VR环境的「挥动」操作，就像水果忍者这款游戏一样，却不局限于屏幕，而是在三维空间中进行，这保证玩家的动作流畅自然，而不用非常精确地点击某个按键。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/beatsaber1-2.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/beatsaber1-2.jpg)
 
 每首歌曲分为四个难度：Easy/Normal/Hard/Expert，音游玩家直接上手Normal不成问题，音游老手可以考虑直接上Hard，熟悉谱面之后刷Expert。目前游戏总时长6小时，除去实验室内同学们一起体验的时间，纯个人游戏时长大概2-3小时，已经能够完成一些Expert难度的歌曲了。
 
 ## 场景
 
-![](http://ohn6qfqhe.bkt.clouddn.com/beatsaber1-3.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/beatsaber1-3.jpg)
 
 以充满科技感的烟雾特效作为背景，根据音乐节奏可适当变化的灯光，配合一眼望不到头的舞台，以及化身为红蓝光剑的手柄，仿佛置身星球大战的世界中央。VR环境中环绕状深蓝色系UI，配合手柄上的扳机键点击按钮，构成了游戏的整体场景。
 
@@ -114,7 +114,7 @@ Tips:请将手柄尾部的绳套系好，防止甩飞。
 
 当然，还有一些更神奇的玩法，比如：（[墙外视频链接](https://www.youtube.com/watch?v=Gx9q014KEcw)）
 
-![](http://ohn6qfqhe.bkt.clouddn.com/beatsaber1-4.gif)
+![](https://github.com/HusterHope/blogimage/raw/master/beatsaber1-4.gif)
 
 练完这套动作就可以去耍金箍棒了。
 

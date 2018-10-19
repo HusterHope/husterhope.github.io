@@ -35,19 +35,19 @@ tags:
 
 客户端界面如下，白板上固定的纸就是标定点，帧速率约为24，为实时传输。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/kinect-unity-1.png)
+![](https://github.com/HusterHope/blogimage/raw/master/kinect-unity-1.png)
 
 客户端显示的深度图：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/kinect-unity-2.png)
+![](https://github.com/HusterHope/blogimage/raw/master/kinect-unity-2.png)
 
 服务器实时接收的点云数据如下：（可以看到帧速率有所下降）
 
-![](http://ohn6qfqhe.bkt.clouddn.com/kinect-unity-3.png)
+![](https://github.com/HusterHope/blogimage/raw/master/kinect-unity-3.png)
 
 可以通过鼠标和键盘的简单交互调整视角：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/kinect-unity-4.png)
+![](https://github.com/HusterHope/blogimage/raw/master/kinect-unity-4.png)
 
 以上过程对于我这种小白用户来说非常友好。
 
@@ -55,7 +55,7 @@ tags:
 
 初步效果稍有问题，将相机沿Z轴负方向稍作拉伸即可看到效果，单相机单客户端单服务器的情况下，帧速率约为20。下图为Unity中的效果：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/kinect-unity-5.png)
+![](https://github.com/HusterHope/blogimage/raw/master/kinect-unity-5.png)
 
 对于放到Unity里能够正常显示的场景，借助Unity引擎强大的硬件支持，就可以转化成VR/AR/MR应用了，虽然点云还比较稀疏，也存在不少噪声点，但不影响继续探索和开发的动力。
 

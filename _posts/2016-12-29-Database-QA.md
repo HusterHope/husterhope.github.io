@@ -55,7 +55,7 @@ A：采用**级联删除**策略或**不予处理。**
 
 Q5：为什么oracle 12c/MS SQL等数据库管理系统，在使用DROP TABLE后还保留了视图？
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/DB.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/DB.png)
 
 A：<http://docs.oracle.com/database/121/SQLRF/statements_9003.htm#SQLRF01806>
 
@@ -77,7 +77,7 @@ A：我们知道，要判断一个或一组属性（记作X）是否为一个关
 
 按照这篇博文的意思，我们需要先将存在的所有函数依赖集，用盒子(boxes)和箭头(arrows)画出来，则题中依赖集绘制如下：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/QA2.jpg)
+![img](https://github.com/HusterHope/blogimage/raw/master/QA2.jpg)
 
 接下来开始判断候选码。
 

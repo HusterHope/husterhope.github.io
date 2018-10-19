@@ -17,17 +17,17 @@ categories: 写随笔
 
 上次到深圳，在深圳湾远眺香港时顺手发了一条朋友圈：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play1.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play1.jpg)
 
 8个月过去，第二次来深圳的理由，正好是为了去香港。
 
 请下了一周假期，从北海北到南山南。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play2.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play2.jpg)
 
 音乐起：
 
-<p>http://ohn6qfqhe.bkt.clouddn.com/%E8%80%81%E7%8E%8B%E4%B9%90%E9%98%9F%20-%20%E6%88%91%E8%BF%98%E5%B9%B4%E8%BD%BB%20%E6%88%91%E8%BF%98%E5%B9%B4%E8%BD%BB.mp3</p>
+<p>https://github.com/HusterHope/blogimage/raw/master/%E8%80%81%E7%8E%8B%E4%B9%90%E9%98%9F%20-%20%E6%88%91%E8%BF%98%E5%B9%B4%E8%BD%BB%20%E6%88%91%E8%BF%98%E5%B9%B4%E8%BD%BB.mp3</p>
 
 > 给我一瓶酒，再给我一支烟，说走就走，我有的是时间。
 
@@ -39,15 +39,15 @@ categories: 写随笔
 
 刚刚经历过暴雨冲刷的深圳，阳光显得格外刺眼。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play3.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play3.jpg)
 
 由于在深圳的停留时间很短，也就没怎么呼朋唤友，活动范围基本在南山区南部，先后打卡椰子鸡/无邪抹茶千层/蛇口夜市/肠粉/蛇口港/深圳湾/喜茶/茶餐厅。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play4.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play4.jpg)
 
 天气是多变的，大雨和阳光快速更替，偶尔还会共存，大雨过后配合阳光直射，整个地表如同蒸桑拿。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play17.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play17.jpeg)
 
 ### 住宿
 
@@ -55,7 +55,7 @@ categories: 写随笔
 
 下图是深圳房源照：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play5.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play5.jpg)
 
 ### 香港一瞥
 
@@ -63,7 +63,7 @@ categories: 写随笔
 
 印象中的香港经济和文化繁荣，名人辈出，都市现代化，美食多样，人民幸福。真正在香港停留了两天后，感觉得到的，只有一种无处安放的压抑。街上无处落脚，地下有人睡觉，抬头只见大楼不见天，低头不见街道只见人，道路狭窄，信息过载。除了购物，似乎完全没有希望在这里生活的理由。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play6.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play6.jpg)
 
 逛街顺便打卡皇后大道，附带一首政治色彩浓郁的老歌《皇后大道东》。
 
@@ -74,7 +74,7 @@ categories: 写随笔
 
 现在看来，罗大佑那个年代的担心不无道理，土地受限的香港，发展速度在回归后的二十余年里远不如国内迅速崛起的新一线城市。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play7.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play7.jpg)
 
 到了太平山顶，望向整座城市，一同学作出如下评价：
 
@@ -82,7 +82,7 @@ categories: 写随笔
 >
 > 这些积木就形成了香港。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play8.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play8.jpg)
 
 以前看过媒体批判香港人民的迷之优越感，没什么实感，现在是信了，但也比较无奈。
 
@@ -94,7 +94,7 @@ categories: 写随笔
 
 艳阳天下的风景还是很好的。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play9.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play9.jpg)
 
 ### 其它
 
@@ -102,7 +102,7 @@ categories: 写随笔
 
   室友换了个华为P20 Pro，我带着小米Mix 2S，两款上半年内主打AI拍照的旗舰机，对比之下前者的场景识别更有针对性，不过蓝天的效果会处理得有点过度，超强夜景模式下拍室外场景很容易受到玻璃反光的影响。Mix 2S的成片使用默认美化功能后和前者效果几乎一致，夜景细节稍有不足，但通过肉眼观察已经能和单反画质媲美。
 
-  ![](http://ohn6qfqhe.bkt.clouddn.com/201807play10.jpg)
+  ![](https://github.com/HusterHope/blogimage/raw/master/201807play10.jpg)
 
   自拍就不用比了，Mix 2S的单摄稳输。
 
@@ -114,7 +114,7 @@ categories: 写随笔
 
   桌游店老板很热情，不过交流起来还是有些吃力。一方面他只能部分听懂国语和英语，并且只会讲少量的英语。因此最后是我们用国语+英语+简体转繁体的谷歌翻译，老板用英语+国语+肢体语言..室友终于买到了两盒比较满意的正版桌游。
 
-  ![](http://ohn6qfqhe.bkt.clouddn.com/201807play11.jpg)
+  ![](https://github.com/HusterHope/blogimage/raw/master/201807play11.jpg)
 
   从打车时司机的态度来看，似乎他们既不喜欢起步价，也不喜欢跑太远，差不多50-80算他们的接受范围，也就是大约4公里以上10公里以内。
 
@@ -122,23 +122,23 @@ categories: 写随笔
 
 * 椰子鸡
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play12.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play12.jpg)
 
 * 蛇口港
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play13.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play13.jpg)
 
 * 茶餐厅
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play14.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play14.jpg)
 
 * 摩天轮
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play15.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play15.jpg)
 
 * 深圳湾
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play18.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play18.jpeg)
 
   ​
 
@@ -150,7 +150,7 @@ categories: 写随笔
 
 珠三角附近约到了和没约到的朋友们，以及本次「天朝超级靠谱旅游团」成员们，再会！
 
-![](http://ohn6qfqhe.bkt.clouddn.com/201807play16.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/201807play16.jpg)
 
 ---
 

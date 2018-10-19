@@ -24,7 +24,7 @@ tags:
 
 在计算机图形学领域，要定义术语*好的视点(Good view)*是很困难的。不过，一个包含了更多信息的视点，更可能会被认作一个较好的视点。比如，设想三维空间中存在一个球体和一个立方体，当从不同的视点观察时得到下面两幅图，我们自然会认为视点(b)比(a)更好。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/ViewEn-1.png)
+![](https://github.com/HusterHope/blogimage/raw/master/ViewEn-1.png)
 
 如果场景的几何信息全部已知，那么所有物体的面片信息都是可以被我们加以利用的。下面我们将依次描述以下内容：第2节主要回顾前人的相关工作，并进一步验证*好的视点*的概念；第3节提出我们的方法；第4节探讨如何从一个场景中选出*N个好的视点*；第5节描述自动场景漫游；最后，在第6节总结我们获得的结果。
 
@@ -97,13 +97,13 @@ $$H(X) = -\sum_{i=0}^{N_f} \frac{A_i}{A_t}log\frac{A_i}{A_t}\qquad\qquad(2)$$
 
 在相机围绕一个立方体转动视点时，得到熵和投影面积如下：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/ViewEn-2.png)
+![](https://github.com/HusterHope/blogimage/raw/master/ViewEn-2.png)
 
 由图可见，基本符合预期值。
 
 对更加复杂的情况，例如下图中的圆环和桌子，拥有最大视点熵的视点如图所示，
 
-![](http://ohn6qfqhe.bkt.clouddn.com/ViewEn-3.png)
+![](https://github.com/HusterHope/blogimage/raw/master/ViewEn-3.png)
 
 但是很多时候，仅依靠一个视点无法满足应用需求，比如基于图像的三维重建和场景理解，因此，我们需要更多视点和图像。
 
@@ -138,7 +138,7 @@ $$H(X) = -\sum_{i=0}^{N_f} \frac{A_i}{A_t}log\frac{A_i}{A_t}\qquad\qquad(2)$$
 
 选择桌子的最佳视点集合如下图所示：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/ViewEn-5.png)
+![](https://github.com/HusterHope/blogimage/raw/master/ViewEn-5.png)
 
 ### V 自动场景漫游
 
@@ -146,7 +146,7 @@ $$H(X) = -\sum_{i=0}^{N_f} \frac{A_i}{A_t}log\frac{A_i}{A_t}\qquad\qquad(2)$$
 
 首先，从视点集合中任意选取一个视点，然后选择下图所示的3个不同漫游方向中的一个方向作为下一步。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/ViewEn-4.png)
+![](https://github.com/HusterHope/blogimage/raw/master/ViewEn-4.png)
 
 选择的方法是：用处在这3个方向上的视点的熵与同它们对应的第4节描述的位图标记之差相乘。
 

@@ -31,13 +31,13 @@ categories: 解问题
 
 
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos1.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos1.png)
 
 下面把devkit 和 mkspecs这两个文件夹拷贝至/Applications/Autodesk/maya2017目录中（这一步我当时没注意把四个文件夹都拷过去了，还好没出什么事）
 
  
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos2.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos2.png)
 
 ### 
 
@@ -49,7 +49,7 @@ categories: 解问题
 
  
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos6.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos6.png)
 
  
 
@@ -57,7 +57,7 @@ categories: 解问题
 
  
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos7.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos7.png)
 
  
 
@@ -95,7 +95,7 @@ vim .profile
 
 
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos8.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos8.png)
 
  
 
@@ -123,7 +123,7 @@ cp -r /Applications/Autodesk/maya2017/devkit/plug-ins/* .
 
  
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos9.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos9.png)
 
 #### 
 
@@ -147,7 +147,7 @@ DEVKIT_LOCATION = /Users/myDocuments/devkitBase
 
 开头改完效果如下图：
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos10.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos10.png)
 
  
 
@@ -159,7 +159,7 @@ DEVKIT_LOCATION = /Users/myDocuments/devkitBase
 
  
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos11.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos11.png)
 
  
 
@@ -185,7 +185,7 @@ sudo make -f Makefile.txt clean
 
 输入密码后执行，你就能看到终端刷着一串warning了，只要没有error就都ok。
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos12.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos12.png)
 
 等待大约2分钟后进程结束，如果没有任何错误信息(errors)，则继续执行：
 
@@ -231,11 +231,11 @@ MAYA_PLUG_IN_PATH = $HOME/devkit/plug-ins/plug-ins
 MAYA_SCRIPT_PATH = $HOME/devkit/plug-ins/scripts
 XBMLANGPATH = $HOME/devkit/plug-ins/icons/%B
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos13.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos13.png)
 
 存储所作的修改，并把Maya.env复制一份放入上级目录（/Users/~~myDocuments~~/Library/Preferences/Autodesk/maya/）中
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos14.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos14.png)
 
 有关env文件的作用可参考官网：
 
@@ -245,7 +245,7 @@ XBMLANGPATH = $HOME/devkit/plug-ins/icons/%B
 
 上述操作都结束后，我们打开Maya 2017，进入Windows->Settings/Preferences->Plug-in Manager，就能够看到我们刚刚安装好的插件了。
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/mos15.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/mos15.png)
 
 maya插件编程之旅就此开启！
 

@@ -86,7 +86,7 @@ SET(OpenMVS_USE_CUDA OFF CACHE BOOL "Enable CUDA library")
 
 最后在issue列表里反复找解决方案，在试过若干种解决策略后，一条不起眼的评论引起了我的注意：（参见[Github issue](https://github.com/cdcseacave/openMVS/issues/346)）
 
-![](http://ohn6qfqhe.bkt.clouddn.com/mvgmvs-1.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/mvgmvs-1.jpg)
 
 说是要给boost库升级到1.63。
 
@@ -104,9 +104,9 @@ OpenMVG的初步使用可以参考上文编译部分给出的指南，对SfM过�
 
 目前在官方提供的数据集上运行后，纹理信息没有正常显示，但用另一个室外建筑的数据集试运行后，似乎没有太大问题。以下两图分别是官方数据集和[Pozzoveggiani](http://www.diegm.uniud.it/~fusiello/demo/samantha/)数据集上的运行效果，SfM方法均为增量式（Incremental）。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/mvgmvs-2.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/mvgmvs-2.jpg)
 
-![](http://ohn6qfqhe.bkt.clouddn.com/mvgmvs-3.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/mvgmvs-3.jpg)
 
 ## 运行时间
 
@@ -201,9 +201,9 @@ echo "--- Done ---"
 
 在第二步，-m用于指定特征提取方法，默认为SIFT（不同特征提取方法之间的差异待调研），-p用于指定提取的精细度（分为NORMAL/HIGH/ULTRA，默认为NORMAL），程度越高耗费时间越长，对应重建的精细度也越高。由于图像本身内容细节有差别，这里的设置也不是越高越好。通常对特征较少的图像需要用更高的提取精度。例如针对Computer Vision Group - Faculty of Informatics - Technical University of Munich提供的[数据集](https://vision.in.tum.de/data/datasets/3dreconstruction)，我尝试重建其中的bird（21张，分辨率1024*768），设置到ULTRA精度明显获得了更好的效果，下图分别是HIGH和ULTRA的效果对比，重建时间分别为2分钟和8分钟。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/mvgmvs-4.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/mvgmvs-4.jpg)
 
-![](http://ohn6qfqhe.bkt.clouddn.com/mvgmvs-5.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/mvgmvs-5.jpg)
 
 * -n ANNL2
 

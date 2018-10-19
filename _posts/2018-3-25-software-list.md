@@ -8,7 +8,7 @@ tags:
 
 mac分区-U盘制作启动盘-装Deepin（Linux系统）-Linux无线网卡bug-返回mac-尝试换个linux系统-合并mac分区-合并分区出bug（linux的空间不见了）-尝试重启-重启gg
 
-![](http://ohn6qfqhe.bkt.clouddn.com/macover-1.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/macover-1.jpg)
 
 想了想原因，应该是没有格式化分区的情况下强行合区，导致两个分区的头部在硬盘中重合，linux和mac的启动第一条语句互相冲突。因此不但60G空间找不到了，还导致存储器中的数据一起没了..如果再来一次肯定要先格式化再合区（然而只是猜想，必然不想再试一次了）
 

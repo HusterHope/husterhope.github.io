@@ -94,15 +94,15 @@ catch(Exception e)
 
 （1）发送若干数据后，发送“_GET”命令，可以获取当前数据库中的所有条目。
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/unityN3-1.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/unityN3-1.png)
 
 （2）服务器的状态
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/unityN3-2.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/unityN3-2.png)
 
 （3）数据表中的状态
 
-![img](http://ohn6qfqhe.bkt.clouddn.com/unityN3-3.png)
+![img](https://github.com/HusterHope/blogimage/raw/master/unityN3-3.png)
 
 比较遗憾的是，Unity对中文的支持不算太好，上面乱码的数据本身应该是“你好”，网上大多数解决方法都是解决脚本中文乱码的，但没有解决工程内中文乱码的。好在这次项目只是记录物体坐标，对语言没有什么限制。
 

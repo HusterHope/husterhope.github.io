@@ -41,7 +41,7 @@ tags:
 
 * 首先找到博客的目录：
 
-![](http://ohn6qfqhe.bkt.clouddn.com/latex.png)
+![](https://github.com/HusterHope/blogimage/raw/master/latex.png)
 
 
 

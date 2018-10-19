@@ -16,13 +16,13 @@ tags:
 
 跨过国际日期变更线，抵达本次冬令营校园所在的城市——旧金山，时间依然是1月28日。加州正午，阳光灿烂。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-1.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-1.jpeg)
 
 图1 加州俯拍
 
 乘车，吃饭，逛街。带东北口音的随行导游和两顿中国菜，让我们快速适应了这陌生的环境。晚上抵达宾馆，颇想唱上一曲《Hotel California》（加州旅馆）。在拥有冰箱、微波炉、浴缸、阳台、熨衣板的房间里，躺在一米五宽的大床上舒服地早早睡去，以倒时差。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-2.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-2.jpeg)
 图2 真·加州旅馆
 
 ---
@@ -33,7 +33,7 @@ tags:
 
 > Berkeley Time: 第一堂课之前有个小插曲，我们行程上的约定上课时间为上午9点，但师兄正式开始讲课的时间在9点10分。带队老师说这叫做「Berkeley Time」，因为伯克利的课程安排中间没有课间，而学生下课通常需要赶往另一个教室，因此学校形成习惯，即每堂课都会在整点后过10分钟再正式开始，这种现象被称为伯克利时间（Berkeley Time）。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-3.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-3.jpeg)
 
 图3 伯克利钟楼
 
@@ -41,7 +41,7 @@ tags:
 
 什么是机器人？不同的人有不同的见解。师兄说，早些时候的设计会让机器人“Shape like human”，即披着金属外壳的机械手臂、人形装置等，后来也让机器人"Think like human"，即让机器学会思考和判断，最典型的应用就像会下围棋的「AlphaGo」。其实，不管是哪一种应用，最重要的理念是“Robots are tools”，即核心都是要为人类服务。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-4.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-4.jpg)
 
 图4 大众眼中的机器人
 
@@ -53,13 +53,13 @@ tags:
 4. ImageNet。由于使用了8层神经网络，2012年Hinton等人在图像分类任务挑战中取得了突破性进步。
 5. 迁移学习：借用他人的模型，加入自己的数据，做针对性的优化。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-5.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-5.jpeg)
 
 图5 ImageNet和迁移学习
 
 基础部分引入完成后，师兄开始讲解在机器人方面的应用，主要运用强化学习来完成机器人运动的优化。强化学习首先需要定义回报函数，即机器人作出正确的操作后可以获得奖赏（对应函数值升高），而作出错误操作时获得惩罚（对应函数值降低）。在反复试错和获得奖赏的过程模拟后，机器人便能“学习”出适合应用的运动方法。科研项目的细节内容中有部分是待发表的论文截图，因此不再细说。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-6.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-6.jpeg)
 
 图6 深度强化学习在自动驾驶中的应用
 
@@ -73,7 +73,7 @@ Q&A部分相对收获更多，因为个人也是直博，因此向师兄请教�
 
 基本上这些就是第一堂课的内容了，很佩服师兄在二年级就能够全程英文进行授课和讲解。送自己一句鸡汤：这样的高度不是遥不可及，但需要加倍努力。（附一张许倬师兄的照片([来源：知乎网](https://www.zhihu.com/people/zhuo-xu-3/activities))，听说曾经是清华校草（膜膜膜
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-7.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-7.jpeg)
 
 ---
 
@@ -88,7 +88,7 @@ Aranki博士从人工智能的历史讲起，包括最初数学上的悖论、�
 
 搜索讲完了又回到机器学习相关的问题，这部分其实和上午的课程有不少重合，但讲得更为系统，包括经典的定义（可以参考[这篇文章]()），类型（监督学习/无监督学习，漏掉了强化学习，不过上午已经讲过了），数据集划分方法，如何防止过拟合等。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-8.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-8.jpg)
 
 图7 Dr.Aranki正在回答问题
 
@@ -102,13 +102,13 @@ Aranki神采奕奕、耐心、热情，这是整堂课过后最大的印象。�
 
 课程过后参观校园，附几张图片收尾。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-10.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-10.jpg)
 图8 伯克利南楼：已有150余年历史，经历了美国数次大地震依然顽强屹立在校园内，目前为新闻学院所用。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-9.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-9.jpg)
 图9 路边的小松鼠：校园自然环境很好，能时常看见小松鼠，并且不怎么怕人。
 
-![](http://ohn6qfqhe.bkt.clouddn.com/day1-12.jpeg)
+![](https://github.com/HusterHope/blogimage/raw/master/day1-12.jpeg)
 图10 钟楼前的大图书馆：这里图书馆大楼很多，有的学科还有自己单独的图书馆。
 
 
