@@ -1,5 +1,5 @@
 ---
-title: "弱典型性和强典型性"
+title: "【信息论】弱典型性和强典型性"
 layout: post
 tags:
   - AEP
