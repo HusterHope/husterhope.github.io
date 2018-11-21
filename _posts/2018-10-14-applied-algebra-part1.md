@@ -1,5 +1,5 @@
 ---
-title: "【应用代数】多项式和有限域"
+title: "【应用代数】欧式环和有限域"
 layout: post
 categories: 做笔记
 tags:
@@ -261,67 +261,6 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 
 > 密码学中的离散对数应用
 
-## 有限域的性质
 
-**Theorem 0.6** （有限域的元素数量）有限域$F_q$上元素的数量一定等同于某个素数的整数幂。即$q=p^m$，$p$为素数。
-
-* 加法：p为加法循环周期（$u_k=u_{k+p}$），称为**特征**(characteristic)；
-* 乘法：所有非零元的集合$F_q^*$构成循环群，**阶**(order)为$q-1$。(阶：使得$\alpha^i=1​$的最小正整数i)
-
-**Theorem 0.7**（拉格朗日定理）若$\alpha \in F_q^*, ord(\alpha)=t$（即$\alpha^k=\alpha^{k+t}$），则$t\mid(q-1)$。
-
-**Definition 0.1** （不可约多项式）多项式$p \in F(x)$，p的最高次幂为正数，若对所有可能的$p=bc$中（$b,c\in F(x)$），均有b或c为常数，则称多项式p为**不可约多项式**。
-
-* Note：判定p是否可约，很大程度上取决于域的范围。例如$p=x^2-2$在有理数域上为不可约多项式，而在实数域上即为可约多项式。
-
-**Theorem 0.8**（解的数目）对$\forall p(x)\in F[x]$，F为一域，若$deg(p(x))=m$，则$p(x)=0$至多有m个解（在F上的解）
-
-> 证明：（数学归纳法）
->
-> 当$m=1$时，记$p(x)=ax+b, a,b\in F$，则有解$x=-a^{-1}b$，满足结论；
->
-> 设$m=t$时结论成立($t\geqslant1$)
->
-> 则$m=t+1$时，若$p(x)=0$无解，满足结论。
->
-> 否则，设$\alpha$为该方程的一个解($\alpha \in F$)
->
-> $\because p(x),x-\alpha \in F(x)$ 
->
-> $\therefore p(x)=q(x)(x-\alpha)+r(x)$，其中$deg(r(x))<1$或$r(x)=0$。
->
-> 将$x=\alpha$代入上式，得$p(\alpha)=q(\alpha)(\alpha-\alpha)+r$，即$r=0$。
->
-> 对$\forall \beta \neq \alpha$，若$\beta$为$p(x)=0$的解，则$\beta$一定为$q(x)=0$的解。
->
-> $\because q(x)=0$至多有t个不同的解
->
-> $\therefore p(x)=0$至多有$t+1$个解。 $\square$
-
-**Lemma 0.6** （求阶公式）令$order(\alpha)=t$，则$ord(\alpha^i)=t/gcd(i,t)$.
-
-在证明L0.6前，先给出一个引理L0.60：$\beta ^a=1$是$ord(\beta)\mid a$成立的充分必要条件。
-
-> 证明L0.60：
->
-> 先证已知$\beta^\alpha=1$的情况。
->
-> 设$ord(\beta)=t$，则$\beta^t=1$。
->
-> $\because \beta^a=1, a\geqslant t$
->
-> $\therefore a=qt+r$ 
->
-> $\because r<t$，若$r\neq0$，则与$ord(\beta)=t$矛盾。$\therefore r=0$，即$a=qt$成立，正向得证。
->
->  反向易证，略。
-
-> 证明：（互相整除推相等）
->
->
-
-**Theorem 0.9**（阶为t的元素数目）
-
-（L0.6/T0.9待整理，LaTex虽好看，写起来真的慢..）
 
 ps.网页中「\exist」，这其实就是那个和「任意」对应的「存在」符号..不知道为什么Web端的LaTex加载不出来..
