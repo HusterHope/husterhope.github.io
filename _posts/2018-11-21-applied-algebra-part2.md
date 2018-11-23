@@ -9,9 +9,9 @@ tags:
 
 上一篇笔记中整理了域和欧式环的相关概念，并重点介绍了后者的性质和从欧式环构造域的方法。为了构造有限域，并证明特定元素数目的有限域的存在性和唯一性，我们需要一些基本概念和性质作为支撑。这些概念主要围绕本原元和极小多项式展开。
 
-<!-- more -->
-
 这份笔记涵盖了第5节至第8节课的核心内容，重在理清这些概念之间的关系和思路，严格的数学证明和推导过程请参考领域专业文献。
+
+<!-- more -->
 
 ## 本原元
 
@@ -37,7 +37,7 @@ $t \mid (q-1)$ .
 
 ### 4. $\alpha$与$\alpha ^i$阶的关系
 
-* 引理：$\beta^s=1 \Leftrightarrow ord(\beta) = s$.
+* 引理：$\beta^s=1 \Leftrightarrow ord(\beta) \mid s$.
 
 若$ord(\alpha)=t$，则$ord(\alpha^i)=t/gcd(i,t)$.
 
@@ -79,7 +79,7 @@ $\sum_{d \mid n} \phi(d)=n$.
 >
 > （3）在域中选任意不为$\alpha$幂次的非零元$\beta$，求出$ord(\beta)=s$。若$s=q-1$，则$i$自增1，并令$\alpha_i=\beta$，执行（5）；
 >
-> （4）找到两个互素且乘积为$t_i​$和$s​$的最小公倍数的元素$d,e​$，即$gcd(d,e)=1​$且$lcm(t_i,s)​$。令$\alpha_{i+1}=\alpha_i^{t_i/d}·\beta^{s/e}, t_{i+1}=lcm(t_i,s)​$，$i​$自增1，执行（2）。
+> （4）找到两个互素且乘积为$t_i$和$s$的最小公倍数的元素$d,e$，即$gcd(d,e)=1$且$d·e=lcm(t_i,s)$，同时满足$d\mid t_i,e\mid s$。令$\alpha_{i+1}=\alpha_i^{t_i/d}·\beta^{s/e}, t_{i+1}=lcm(t_i,s)$，$i$自增1，执行（2）。
 >
 > （5）输出$\alpha_i$，结束。
 
@@ -93,7 +93,7 @@ $\sum_{d \mid n} \phi(d)=n$.
 
 有限域$F_{p^m}[x]$.
 
-* 极小多项式概念的推导过程：$m+1$维向量在$m$维空间上必线性相关 -> 方程$A_0+A_1\alpha+...+A_m\alpha^m=0$有解 -> 设解集为$S(\alpha)=\{f(x)\in F_p(x):f(\alpha)=0\}$ -> 找出$S(\alpha)$中幂次最小的首一(monic)多项式$p(x)$ -> 证明这样的多项式唯一（若存在多个，则相减后幂次会更低，因此唯一） -> 证其整除$S(\alpha)$中其他所有元素（用类似欧式环的方法） -> 称$p(x)$为关于$\alpha$的$F_p$上的极小多项式。
+* 极小多项式概念的推导过程：$m+1$个向量在$m$维空间上必线性相关 -> 取$F_{p^m}$上的任意一个元素$\alpha$，则方程$A_0+A_1\alpha+...+A_m\alpha^m=0$有解 -> 设解集为$S(\alpha)=\{f(x)\in F_p(x):f(\alpha)=0\}$，由上一步知此解集非空 -> 找出$S(\alpha)$中幂次最小的首一(monic)多项式$p(x)$ -> 证明这样的多项式唯一（若存在多个，则相减后幂次会更低，因此唯一） -> 证其整除$S(\alpha)$中其他所有元素（用类似欧式环的方法） -> 称$p(x)$为关于$\alpha$的$F_p$上的极小多项式。
 
 ### 9. 极小多项式的性质
 
@@ -121,7 +121,7 @@ $\beta \in F_q \Leftrightarrow \beta^q=\beta$ .
 
 ### 引理12. 素数次幂的多项展开式
 
-设$\alpha_1,\alpha_2,...,\alpha_t$为域$F_p$中的元素，则：
+设$\alpha_1,\alpha_2,...,\alpha_t$为域$F_{p^m}$中的元素，则：
 
 $(\alpha_1+\alpha_2+...+\alpha_t)^{p^k}=\alpha_1^{p^k}+\alpha_2^{p^k}+...+\alpha_t^{p^k}\quad(k=1,2,...)$ 
 
@@ -131,13 +131,13 @@ $(\alpha_1+\alpha_2+...+\alpha_t)^{p^k}=\alpha_1^{p^k}+\alpha_2^{p^k}+...+\alpha
 
 * 共轭元（Conjugates）的由来：
 
-  多项式$p(\alpha)=0\Rightarrow p(\alpha^p)=0$（综合引理10-12）
+  多项式$p(\alpha)=0\Rightarrow p(\alpha^q)=0$（综合引理10-12）
 
-  进一步：$p(\alpha^{p^2})=0, p(\alpha^{p^3})=0,...$
+  进一步：$p(\alpha^{q^2})=0, p(\alpha^{q^3})=0,...$
 
   由于域中元素有限，因此存在循环，记$\alpha^{q^d}=\alpha$.
 
-  则$d$就是$\alpha$共轭元的数目，称$\alpha,\alpha^p,\alpha^{p^2},...,\alpha^{p^{d-1}}$互为共轭元。
+  则$d$就是$\alpha$共轭元的数目，称$\alpha,\alpha^q,\alpha^{q^2},...,\alpha^{q^{d-1}}$互为共轭元。
 
 元素$\alpha$的共轭元数目$d$是$n$的因子（$d\mid n$），$d$是满足$q^d\equiv 1(mod\ t)$的最小正整数。
 
