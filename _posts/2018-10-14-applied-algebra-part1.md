@@ -59,7 +59,7 @@ tags:
 在整环定义的基础上，同时满足：
 
 * 若$b\neq 0$，$g(a)\leqslant g(ab)$；
-* 对所有$a,b\neq 0$，$\exist q,r$使得$a=qb+r$，其中$q=0$或$g(r)<g(b)$.
+* 对所有$a,b\neq 0$，$\exists q,r$使得$a=qb+r$，其中$q=0$或$g(r)<g(b)$.
 
 其中$g(x)$称为Size function，为非负整数。
 
@@ -70,7 +70,7 @@ tags:
 ## 最大公约数和欧几里得法
 
 * 最大公约数**（Greatest Common Divisor, GCD）**
-* 在整环中，$a \mid b$（读作a整除b）意味着 $\exist c$ 使得$b = c·a$，称a为b的**因子**（divisor）。
+* 在整环中，$a \mid b$（读作a整除b）意味着 $\exists c$ 使得$b = c·a$，称a为b的**因子**（divisor）。
 
 ### 整环上的GCD
 
@@ -108,7 +108,7 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 >
 > 再证(1)：$d =  \sum_{k=1}^{n} \mu_k b_k$ ，由欧式环性质有
 >
-> $\forall b_i ,\exist q,r \in D, s.t. b_i=qd+r$，其中$r = 0$或$g(r)<g(d)$.（即只需证$r=0$）
+> $\forall b_i ,\exists q,r \in D, s.t. b_i=qd+r$，其中$r = 0$或$g(r)<g(d)$.（即只需证$r=0$）
 >
 > $\because r=b_i-qd \in S$ $ \therefore g(d)\leqslant g(r)$，与$g(r) < g(d)$矛盾。
 >
@@ -140,7 +140,7 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 
 ### 相伴 Associates
 
-若$\exist u,s.t. a=ub$，其中u为unit，则称a,b**相伴**。若$b\mid a$而a与b不相伴，则称b为a的**真因子**。
+若$\exists u,s.t. a=ub$，其中u为unit，则称a,b**相伴**。若$b\mid a$而a与b不相伴，则称b为a的**真因子**。
 
 ### 平凡因式分解 Trivial Factorization
 
@@ -152,7 +152,7 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 
 对D中两元素a,b，若$gcd(a,b)=1$（或任意其他unit），则称a与b**互素**。
 
-**Lemma 0.2** 若a,b互素，则$\exist s,t \in D$，使得$as+bt=1$. （套用定理0.1易得）
+**Lemma 0.2** 若a,b互素，则$\exists s,t \in D$，使得$as+bt=1$. （套用定理0.1易得）
 
 **Lemma 0.3** 若p为D中的一个素元，则对于$\forall a\in D$，若p不整除a，则a与p互素。
 
@@ -168,7 +168,7 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 >
 > 两边同乘b，得$b=asb+ptb$
 >
-> $\because p\mid ab\quad \therefore \exist c,s.t. cp=ab$
+> $\because p\mid ab\quad \therefore \exists c,s.t. cp=ab$
 >
 > 即$b=scp+tbp=(sc+tb)p, p\mid b .$ 
 >
@@ -229,7 +229,7 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 >
 > $\because gcd(a,m)=1$
 >
-> $\therefore \exist s,t, s.t. as+mt=1\ (mod\ m) $
+> $\therefore \exists s,t, s.t. as+mt=1\ (mod\ m) $
 >
 > 所以s即为a的逆元，证毕。
 
@@ -260,7 +260,3 @@ $g(d)=max\{ g(d_1),g(d_2),···,g(d_k)\}$
 特性：给定一个素数域$F_p$和最高幂次为m的不可约多项式，则能够构造出含有$p^m$个元素的有限域。这就能够方便地从小素数构造出一个大有限域。
 
 > 密码学中的离散对数应用
-
-
-
-ps.网页中「\exist」，这其实就是那个和「任意」对应的「存在」符号..不知道为什么Web端的LaTex加载不出来..
