@@ -3,7 +3,7 @@ title: "【数据库】数据分析行业调研"
 layout: post
 tags:
   - Database
-  - Pyton
+  - Python
 categories: 解问题
 ---
 
