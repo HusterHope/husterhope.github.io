@@ -72,7 +72,7 @@ tags:
 
 接下来是游览斯坦福大学。由于以前看过一丢丢斯坦福的公开课（CS229/CS231n），真正到达校园时并没有特别的兴奋感。可能是因为学校太大，视野里四处是华人面孔的游客，骑着车的学生和一眼望不到头的棕榈大道。
 
-![](https://github.com/HusterHope/blogimage/raw/master/day5-2.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day5-2.jpg)
 
 图1 美国最美公路之一-「棕榈大道」
 
@@ -80,15 +80,15 @@ tags:
 
 吐槽归吐槽，来都来了，还是要留些照片纪念的。景象变了，拍照角度也要变。
 
-![](https://github.com/HusterHope/blogimage/raw/master/day5-3.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day5-3.jpg)
 
 图2 斯坦福钟楼
 
-![](https://github.com/HusterHope/blogimage/raw/master/day5-4.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day5-4.jpg)
 
 图3 沙漠金字塔（其实还是钟楼
 
-![](https://github.com/HusterHope/blogimage/raw/master/day5-5.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day5-5.jpg)
 
 图4 街角一景
 
@@ -110,7 +110,7 @@ tags:
 
 下面是一幅形象的图，显示了初创公司后的愉悦值变化(Happiness)：
 
-![](https://github.com/HusterHope/blogimage/raw/master/day5-6.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day5-6.jpg)
 
 第一眼看到纵坐标是Happiness，直接联想到谈恋爱的过程（逃
 
@@ -153,7 +153,7 @@ Zafar基本上都只会在第一句话正面回答问题，后面就开始围着
 
 写得有点累，放一张中午抓拍的小松鼠提提神。
 
-![](https://github.com/HusterHope/blogimage/raw/master/day5-7.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day5-7.jpg)
 
 ---
 
@@ -203,4 +203,4 @@ Aranki在与我们课后交流时说了这么一段话（根据他原来的意�
 
 有时候，你和名校的距离，只差这一步（笑
 
-![](https://github.com/HusterHope/blogimage/raw/master/day5-8.png)
+![](https://github.com/HusterHope/blogimage/raw/master/day5-8.jpg)

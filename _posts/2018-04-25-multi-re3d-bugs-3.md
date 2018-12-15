@@ -186,4 +186,4 @@ String encodedString = Base64.encodeToString(bytes, Base64.DEFAULT);
 
 此外，数据在局域网传输过程中明显存在部分丢失，导致深度估计信息有误（下右图），但点云数目上却相差无几，这可能也是后期需要改进的地方。
 
-![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-9.png)
+![](https://github.com/HusterHope/blogimage/raw/master/3drecon-bug-9.jpg)
