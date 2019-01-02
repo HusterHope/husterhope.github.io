@@ -27,7 +27,7 @@ categories: 做笔记
 
 * 弱大数定律(Weak Law of Large Numbers, WLLN)
 
-对独立同分布的随机变量$Y_1,Y_2,···$（用$Y$表示对应的一般随机变量），当$n\to\infin$，有$\frac{1}{n}\sum_{k=1}^{n}Y_k\to EY$。
+对独立同分布的随机变量$Y_1,Y_2,···$（用$Y$表示对应的一般随机变量），当$n\to\infty$，有$\frac{1}{n}\sum_{k=1}^{n}Y_k\to EY$。
 
 * 经验熵(Empirical Entropy)：$-log\ p(x_k)$ 的算术平均
 
@@ -53,7 +53,7 @@ $$R = \frac{1}{n}log\ M$$
 
 正定理：给定任意小的错误率$P_e$，当$n$足够大时，存在码率任意接近于$H(X)$的分组编码；
 
-逆定理：对任意码率小于$H(X)-\zeta$的长度为$n$的分组编码，当$n\to \infin$时，$P_e \to 1$。
+逆定理：对任意码率小于$H(X)-\zeta$的长度为$n$的分组编码，当$n\to \infty，$P_e \to 1$。
 
 也就是说，若码率大于熵，则可靠通信能够实现；若码率小于熵，可靠通信不能实现。
 
