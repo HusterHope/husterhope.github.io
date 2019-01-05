@@ -1,5 +1,5 @@
 ---
-title: "THE PH.D. GRIND 读后感"
+title: "THE PH.D. GRIND-博士是怎样炼成的"
 layout: post
 tags:
 categories: 读论文
@@ -51,7 +51,7 @@ categories: 读论文
 
 来到作者的博士第三年，由于有了第一年的项目积累和第二年的研究经验，作者在导师的“鼓励”下重新接手了第一年未完成的项目，却又以失败告终，于是作者毅然决然退出项目组，自己另寻合作。这个项目先后由4位博士生接手，其中两人没有任何产出（一个转组一个直接退出读博），一个熬了3年出了第一篇文章，另一个就是选择退出项目的作者本人。
 
-因此作者说，拿了稳定教职的教授可以承受若干年的失败（只需要等一次产出），而一个博士研究生由于正处人生黄金期，根本无法承受这种连续若干年失败的后果。其实这段话既、是写给博士生看的，也是写给导师们看的。
+因此作者说，拿了稳定教职的教授可以承受若干年的失败（只需要等一次产出），而一个博士研究生由于正处人生黄金期，根本无法承受这种连续若干年失败的后果。其实这段话既是写给博士生看的，也是写给导师们看的。
 
 > This limited time span was great for motivating students to focus. Back in school, there often wasn’t such a sense of forced urgency, so students could spend weeks or months meandering.
 
