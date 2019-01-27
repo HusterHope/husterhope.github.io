@@ -94,13 +94,13 @@ $$a'=T'T^{-1}a$$.
 
 * 水平线的位置能够反映相机的两个旋转角。例如，当相机朝下时，水平线会出现在图像中央偏上的位置。
 
-![](https://github.com/HusterHope/blogimage/raw/master/PennP2-9.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/PennP2-8.jpg)
 
 ## 利用交叉比进行单视图度量
 
 这一节围绕交叉比（Cross ratio）这个概念展开。最核心的性质是：投影变换前后，线段交叉比大小不变。如下图所示。
 
-![](https://github.com/HusterHope/blogimage/raw/master/PennP2-1.jpg)
+![](https://github.com/HusterHope/blogimage/raw/master/PennP2-9.jpg)
 
 利用这一性质，我们可以在单视图内进行一些简单的长度计算（Single View Metrology）。
 
