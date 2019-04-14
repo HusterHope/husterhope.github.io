@@ -24,10 +24,6 @@ Email :  luhp9696 [AT] gmail [DOT] com
 
 
 
-如果你觉得内容有帮助，不妨领个花呗红包作为赞赏☕️
-
-![](https://github.com/HusterHope/blogimage/raw/master/alipayCode.png)
-
 ---
 
 最后，欢迎写博客的小伙伴们互换友链～
