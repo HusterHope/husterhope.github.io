@@ -12,7 +12,7 @@ tags:
 
 原文地址：[A Skeleton-bridged Deep Learning Approach for Generating Meshes of Complex Topologies from Single RGB Images](https://arxiv.org/pdf/1903.04704.pdf)
 
-中文解读(来自paper weekly)：[CVPR 2019 | 基于骨架表达的单张图片三维物体重建方法](https://mp.weixin.qq.com/s/UthnL7fqEIEGvzcaXmFHKQ)
+中文解读(来自paper weekly)：[CVPR 2019 - 基于骨架表达的单张图片三维物体重建方法](https://mp.weixin.qq.com/s/UthnL7fqEIEGvzcaXmFHKQ)
 
 <!-- more -->
 
