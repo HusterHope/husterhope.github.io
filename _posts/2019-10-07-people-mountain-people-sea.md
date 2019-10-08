@@ -12,7 +12,7 @@ categories: 写随笔
 
 > BGM：**Calculasian-See You Again/平凡之路**
 
-<p>https://github.com/HusterHope/blogimage/blob/b6d406d6ca3816b6f337e917816807230a2bec57/Calculasian-See%20You%20Again%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF%20ft.%20Kunwoo%20Hong.mp3</p>
+<p>https://github.com/HusterHope/blogimage/blob/master/See%20You%20Again-%E5%B9%B3%E5%87%A1%E4%B9%8B%E8%B7%AF%20ft.%20Kunwoo%20_Calculasian.mp3</p>
 
 ## 谁是鸽王
 
