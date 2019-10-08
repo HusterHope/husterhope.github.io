@@ -3,6 +3,7 @@ title: "国庆五日游｜山和大海，人山人海"
 layout: post
 tags:
   - Photos
+  - Music
 categories: 写随笔
 ---
 
