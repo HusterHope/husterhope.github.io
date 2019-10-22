@@ -8,11 +8,13 @@ Welcome ;)
 
 About me:
 
-HUSTer / [SJTU Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/index.aspx) + [PKU-VCL](http://vcl.idm.pku.edu.cn/) Phd Student(1st year)
+HUSTer / [SJTU Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/index.aspx) + [PKU-VCL](http://vcl.idm.pku.edu.cn/) Phd Student(2nd year)
 
 ---
 
 挖坑比填坑快，如果发现某个系列笔记或者计划长时间没有更新，一定是因为懒。
+
+如果想更多了解这个博客，推荐从[这篇文章](https://leohope.com/%E5%86%99%E9%9A%8F%E7%AC%94/2019/08/28/blog-1000/)开始探索。
 
 
 
