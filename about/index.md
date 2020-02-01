@@ -6,11 +6,24 @@ sidebar_link: true
 
 Welcome ;)
 
-About me:
+ABOUT
 
-HUSTer / [SJTU Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/index.aspx) + [PKU-VCL](http://vcl.idm.pku.edu.cn/) Phd Student(2nd year)
+* Me: [HUST](http://www.hust.edu.cn/)er / [SJTU Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/index.aspx) + [PKU-VCL](http://vcl.idm.pku.edu.cn/) Phd Student(2nd year)
+* Blog: Set up in Dec. 2016, recording something in my personal life, study and work;
+
+* Location: Wuhan/Shanghai/Beijing;
+* Girlfriend: Gloria;
+* Pet: Xiao Qi (a cat).
 
 ---
+
+博客建站于2016年末，主要记录生活、学习和工作中的琐事。
+
+辗转于武汉，上海，北京。
+
+与通过博客结识的女朋友Gloria热恋中。
+
+领养了一只名叫「小七」的猫。
 
 挖坑比填坑快，如果发现某个系列笔记或者计划长时间没有更新，一定是因为懒。
 
