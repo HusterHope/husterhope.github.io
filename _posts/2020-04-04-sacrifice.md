@@ -3,6 +3,7 @@ title: "国祭｜我没有悲伤的权力，只有自己收拾心情"
 layout: post
 tags:
   - Music
+  - Psychological
 categories: 写随笔
 ---
 

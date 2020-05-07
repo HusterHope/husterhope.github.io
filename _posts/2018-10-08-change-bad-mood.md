@@ -2,6 +2,8 @@
 title: "负情绪成因及应对措施"
 layout: post
 categories: 写随笔
+tags:
+  - Psychological
 ---
 
 <!-- more -->
