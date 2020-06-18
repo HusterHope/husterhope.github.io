@@ -12,7 +12,6 @@ ABOUT
 * Blog: Set up in Dec. 2016, recording something in my personal life, study and work;
 
 * Location: Wuhan/Shanghai/Beijing;
-* Girlfriend: Gloria;
 * Pet: Xiao Qi (a cat).
 
 ---
@@ -21,15 +20,13 @@ ABOUT
 
 辗转于武汉，上海，北京。
 
-与通过博客结识的女朋友Gloria热恋中。
-
 领养了一只名叫「小七」的猫。
 
 挖坑比填坑快，如果发现某个系列笔记或者计划长时间没有更新，一定是因为懒。
 
 如果想更多了解这个博客，推荐从[这篇文章](https://leohope.com/%E5%86%99%E9%9A%8F%E7%AC%94/2019/08/28/blog-1000/)开始探索。
 
-博客内大部分图片存放于Github仓库中，可能需要科学上网才能查看
+博客内大部分图片存放于Github仓库中，可能需要科学上网才能查看。
 
 
 
