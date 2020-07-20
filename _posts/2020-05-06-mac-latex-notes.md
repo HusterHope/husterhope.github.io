@@ -3,7 +3,7 @@ title: "Mac+LaTeX学习笔记"
 layout: post
 tags:
   - LaTeX
-categories: 写随笔
+categories: 做笔记
 ---
 
 记头一次正经学习使用LaTeX..
