@@ -7,6 +7,8 @@ tags:
   - Android
 ---
 
+<!-- more -->
+
 自从Unity强行推出Unity Hub作为版本管理和项目控制的入口后，不仅许可证需要频繁更新，偶尔神奇的小bug也出其不意。
 
 最近在整的一个Unity安卓平台工程，突然间通过Hub的入口就打不开了，具体表现为，**每次点击项目后，Unity Hub先消失，并弹出一个Unity启动界面，随后Unity Hub重新出现，而Unity并没有被正常打开。**
