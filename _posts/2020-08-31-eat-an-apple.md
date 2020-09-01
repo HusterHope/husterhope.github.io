@@ -16,7 +16,7 @@ categories: 写随笔
 
 室友起床后，依然困得爬不起来，打开虾米音乐随机播放：
 
-<p>https://github.com/HusterHope/blogimage/raw/master/%E4%BA%94%E6%9C%88%E5%A4%A9-%E4%B8%80%E9%A2%97%E8%8B%B9%E6%9E%9C%20(Life%20Live).mp3</p>
+<p>https://github.com/HusterHope/blogimage/raw/master/%E4%BA%94%E6%9C%88%E5%A4%A9-%E4%B8%80%E9%A2%97%E8%8B%B9%E6%9E%9C.mp3</p>
 
 一颗苹果(live) - 五月天
 
