@@ -126,11 +126,11 @@ CUDA的环境设置主要是内存空间的开辟和Grid/Block/Thread的划分�
 
 **仿射变换**的部分，代码中引入了1/4像素的机制，以及调整差值位置的参数$\tau​$。设仿射变换矩阵为$A​$，对位于$(c,r)​$的像素点而言，代码中实现映射位置的计算方式为：
 
-$for\ i\ in\ range(4):$ 
+$for\ i\ in\ range(4):​$ 
 
 $$new_c=(1-\tau+\tau\times A_{11})\times(col-0.5+\frac{i}{4})+\tau\times A_{12}\times(row-0.5+\frac{i}{4})+\tau \times A_{13}$$ 
 	
-$$new_r=\tau\times A_{21}\times(col-0.5+\frac{i}{4})+(1-\tau+\tau\times A_{12})\times(row-0.5+\frac{i}{4})+\tau \times A_{13}$$
+$$new_r=\tau\times A_{21}\times(col-0.5+\frac{i}{4})+(1-\tau+\tau\times A_{22})\times(row-0.5+\frac{i}{4})+\tau \times A_{23}$$
 
 > 暂时没有理解$(1-\tau)$在式中的作用。
 
