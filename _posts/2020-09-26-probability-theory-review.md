@@ -1,5 +1,5 @@
 ---
-title: "概率论和数理统计|复习（1）"
+title: "概率论和数理统计 | 复习（1）"
 layout: post
 categories: 做笔记
 tags:
