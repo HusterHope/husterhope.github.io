@@ -8,7 +8,7 @@ Welcome ;)
 
 ABOUT
 
-* Me: [HUST](http://www.hust.edu.cn/)er / [SJTU Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/index.aspx) + [PKU-VCL](http://vcl.idm.pku.edu.cn/) Phd Student (3rd year but no publications :(
+* Me: [HUST](http://www.hust.edu.cn/)er / [SJTU Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/index.aspx) + [PKU-VCL](http://vcl.idm.pku.edu.cn/) Phd Student (3rd year)
 * Blog: Set up in Dec. 2016, recording something in my personal life, study and work;
 
 * Location: Wuhan / Shanghai / Beijing;
