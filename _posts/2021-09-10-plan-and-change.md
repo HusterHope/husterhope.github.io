@@ -1,5 +1,5 @@
 ---
-title: "札记｜积极计划，拥抱变化"
+title: "札记 01｜积极计划，拥抱变化"
 layout: post
 categories: 写随笔
 ---
