@@ -16,7 +16,7 @@ categories: 做笔记
 
 当然，阅读这类文献的核心思想，还是为了理解虚拟现实+人机交互领域内，主观实验与评价指标背后的机理。
 
-正文是E. Bruce Goldstein所著书籍《认知心理学 Cognitive Psychology》的中文版第2-5章内容摘录。有些是为了实用，有些是为了有趣。
+正文内的引用段落出自E. Bruce Goldstein所著书籍《认知心理学 Cognitive Psychology》的中文版第2-5章内容。有些是为了实用，有些是为了有趣。
 
 ## 认知神经科学 (Cognitive Neuroscience)
 
