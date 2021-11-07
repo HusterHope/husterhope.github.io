@@ -6,14 +6,6 @@ sidebar_link: true
 
 Welcome ;)
 
-ABOUT
-
-* Me: [HUST](http://www.hust.edu.cn/)er / [SJTU Department of Computer Science and Engineering](http://www.cs.sjtu.edu.cn/index.aspx) + [PKU-VCL](http://vcl.idm.pku.edu.cn/) Phd Student
-* Academic Homepage (under construction)：hp-lu.com/
-* This Blog: Set up in Dec. 2016, recording something in my personal life, study and work;
-
----
-
 博客建站于2016年末，主要记录生活、学习和工作中的琐事。
 
 挖坑比填坑快，如果发现某个系列笔记或者计划长时间没有更新，一定是因为懒。
