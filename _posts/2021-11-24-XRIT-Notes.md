@@ -6,7 +6,7 @@ categories: 做笔记
 
 Unity XR席卷各个设备开发，有必要对官方文档学习一个。
 
- [XR Interaction Toolkit | XR Interaction Toolkit | 0.9.4-preview (unity3d.com)](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html) 
+ [XR Interaction Toolkit -XR Interaction Toolkit - 0.9.4-preview (unity3d.com)](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@0.9/manual/index.html) 
 
 <!-- more -->
 
