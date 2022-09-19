@@ -195,22 +195,22 @@ categories: 写随笔
 
 文中引用均为站内自引，如有兴趣欢迎查阅：
 
-\[1\] [ISMAR2019D2-4-简要参会记录 | Hope (leohope.com)](https://leohope.com/做笔记/2019/11/15/ismar-2019-papers/)
+\[1\] [ISMAR2019D2-4-简要参会记录](https://leohope.com/做笔记/2019/11/15/ismar-2019-papers/)
 
-\[2\] [入局两年间，我所认识的增强现实和虚拟现实 | Hope (leohope.com)](https://leohope.com/写随笔/2019/12/29/ARVR/)
+\[2\] [入局两年间，我所认识的增强现实和虚拟现实](https://leohope.com/写随笔/2019/12/29/ARVR/)
 
-\[3\] [疫情期间情绪调整法则 | Hope (leohope.com)](https://leohope.com/写随笔/2020/03/12/ncov-psy/)
+\[3\] [疫情期间情绪调整法则](https://leohope.com/写随笔/2020/03/12/ncov-psy/)
 
-\[4\] [国祭｜我没有悲伤的权力，只有自己收拾心情 | Hope (leohope.com)](https://leohope.com/写随笔/2020/04/04/sacrifice/)
+\[4\] [国祭｜我没有悲伤的权力，只有自己收拾心情](https://leohope.com/写随笔/2020/04/04/sacrifice/)
 
-\[5\] [疫情期间情绪调整法则（2） | Hope (leohope.com)](https://leohope.com/写随笔/2020/05/07/ncov-psy-2/)
+\[5\] [疫情期间情绪调整法则（2）](https://leohope.com/写随笔/2020/05/07/ncov-psy-2/)
 
-\[6\] [似乎有很多话要说 | Hope (leohope.com)](https://leohope.com/写随笔/2020/11/18/rainy-day/)
+\[6\] [似乎有很多话要说](https://leohope.com/写随笔/2020/11/18/rainy-day/)
 
-\[7\] [书摘｜走出抑郁 | Hope (leohope.com)](https://leohope.com/做笔记/2020/12/02/get-up/)
+\[7\] [书摘｜走出抑郁](https://leohope.com/做笔记/2020/12/02/get-up/)
 
-\[8\] [第一篇论文和半程随想 | Hope (leohope.com)](https://leohope.com/写随笔/2021/02/05/first-paper/)
+\[8\] [第一篇论文和半程随想](https://leohope.com/写随笔/2021/02/05/first-paper/)
 
-\[9\] [再访上海 | Hope (leohope.com)](https://leohope.com/写随笔/2021/04/05/revisit-shanghai/)
+\[9\] [再访上海](https://leohope.com/写随笔/2021/04/05/revisit-shanghai/)
 
-\[10\] [札记 11｜记第一次宿醉和断片 | Hope (leohope.com)](https://leohope.com/写随笔/2022/01/06/drunk/)
+\[10\] [札记 11｜记第一次宿醉和断片](https://leohope.com/写随笔/2022/01/06/drunk/)
