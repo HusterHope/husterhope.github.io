@@ -2,6 +2,9 @@
 title: "Tobii XR SDK - Eye Tracking Learning Notes"
 layout: post
 categories: 做笔记
+tags:
+  - EyeTracking
+  - HCI
 ---
 
 眼动追踪：获取用户视觉注意力的隐式方法。
