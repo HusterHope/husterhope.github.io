@@ -1,5 +1,5 @@
 ---
-title: "告别元宇宙，拥抱大模型"
+title: "告别元宇宙，拥抱大模型 - 2025年度总结(2)"
 layout: post
 categories: 写随笔
 ---
